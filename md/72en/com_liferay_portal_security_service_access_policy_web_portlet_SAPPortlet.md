@@ -1,11 +1,12 @@
-# Headline
+# Service Access Policies
 
 ## Documentation
 
-* Sorry, no documentation linked yet - please contribute
+* [Service Access Policies](https://portal.liferay.dev/docs/7-2/frameworks/-/knowledge_base/f/service-access-policies)
 
 ## Related Topics
 
+* [Application Security](https://portal.liferay.dev/docs/7-2/frameworks/-/knowledge_base/f/application-security)
 
 ## Community Resources
 

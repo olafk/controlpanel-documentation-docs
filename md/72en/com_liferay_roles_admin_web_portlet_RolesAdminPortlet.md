@@ -1,11 +1,12 @@
-# Headline
+# Regular Roles (Portal Roles) 
 
 ## Documentation
 
-* Sorry, no documentation linked yet - please contribute
+* [Roles and Permissions](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/roles-and-permissions)
 
 ## Related Topics
 
+* Site Roles and Organization Roles
 
 ## Community Resources
 
