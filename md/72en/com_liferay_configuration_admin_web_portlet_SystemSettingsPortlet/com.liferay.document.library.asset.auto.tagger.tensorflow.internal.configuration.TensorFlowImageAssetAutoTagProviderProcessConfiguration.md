@@ -1,11 +1,12 @@
-# Headline
+# TensorFlow Image Auto Tagging Process
 
 ## Documentation
 
-* Sorry, no documentation linked yet - please contribute
+* [Configuring Asset Auto Tagging](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/configuring-asset-auto-tagging)
 
 ## Related Topics
 
+* [What's new in 7.2: Autotagging](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/whats-new-in-72#auto-tagging)
 
 ## Community Resources
 

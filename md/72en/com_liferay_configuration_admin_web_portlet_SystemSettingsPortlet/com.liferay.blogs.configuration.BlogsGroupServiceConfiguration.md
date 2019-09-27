@@ -1,11 +1,12 @@
-# Headline
+# Blogs Service
 
 ## Documentation
 
-* Sorry, no documentation linked yet - please contribute
+* [Configuring the Blogs App](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/configuring-the-blogs-app)
 
 ## Related Topics
 
+* [Publishing Blogs](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/publishing-blogs)
 
 ## Community Resources
 

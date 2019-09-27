@@ -1,11 +1,12 @@
-# Headline
+# Asset Publisher Web Configuration
 
 ## Documentation
 
-* Sorry, no documentation linked yet - please contribute
+* [Assets](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/assets)
 
 ## Related Topics
 
+* [Asset Framework](https://portal.liferay.dev/docs/7-2/frameworks/-/knowledge_base/f/asset-framework) (Developer)
 
 ## Community Resources
 

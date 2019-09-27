@@ -1,4 +1,4 @@
-# Headline
+# Yahoo Javascript Minifier Configuration
 
 ## Documentation
 
@@ -6,6 +6,7 @@
 
 ## Related Topics
 
+* [Themes Introduction](https://portal.liferay.dev/docs/7-2/frameworks/-/knowledge_base/f/themes-introduction)
 
 ## Community Resources
 

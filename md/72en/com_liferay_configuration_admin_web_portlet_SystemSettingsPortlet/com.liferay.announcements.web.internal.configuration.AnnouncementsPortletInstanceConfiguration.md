@@ -1,4 +1,4 @@
-# Headline
+# Announcements
 
 ## Documentation
 
@@ -6,6 +6,7 @@
 
 ## Related Topics
 
+* [Sending Alerts and Announcements](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/sending-alerts-and-announcements)
 
 ## Community Resources
 

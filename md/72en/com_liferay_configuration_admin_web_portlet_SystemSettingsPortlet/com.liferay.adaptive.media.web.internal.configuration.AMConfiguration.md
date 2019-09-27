@@ -1,11 +1,12 @@
-# Headline
+# Adaptive Media Advanced Configuration
 
 ## Documentation
 
-* Sorry, no documentation linked yet - please contribute
+* [Adaptive Media Advanced Configuration](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/advanced-configuration-options)
 
 ## Related Topics
 
+* [Adaptive Media](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/adapting-your-media-across-multiple-devices)
 
 ## Community Resources
 
