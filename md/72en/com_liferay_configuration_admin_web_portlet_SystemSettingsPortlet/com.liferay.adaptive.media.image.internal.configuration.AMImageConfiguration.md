@@ -6,7 +6,7 @@
 
 ## Related Topics
 
-* [Adaptive Media](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/adapting-your-media-across-multiple-devices)
+* [Adapting your Media across multiple devices](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/adapting-your-media-across-multiple-devices)
 
 ## Community Resources
 

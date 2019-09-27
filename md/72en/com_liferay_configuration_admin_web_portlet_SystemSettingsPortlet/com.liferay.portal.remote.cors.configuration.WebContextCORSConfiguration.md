@@ -1,8 +1,8 @@
-# Headline
+# Web Content Cross Resource Origin Sharing (CORS)
 
 ## Documentation
 
-* Sorry, no documentation linked yet - please contribute
+* [Configuring CORS](https://portal.liferay.dev/docs/7-2/deploy/-/knowledge_base/d/configuring-cors)
 
 ## Related Topics
 
