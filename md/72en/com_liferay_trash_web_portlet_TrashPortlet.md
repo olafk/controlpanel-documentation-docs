@@ -1,8 +1,8 @@
-# Headline
+# Recycle Bin
 
 ## Documentation
 
-* Sorry, no documentation linked yet - please contribute
+* [Restoring Deleted Assets](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/restoring-deleted-assets)
 
 ## Related Topics
 

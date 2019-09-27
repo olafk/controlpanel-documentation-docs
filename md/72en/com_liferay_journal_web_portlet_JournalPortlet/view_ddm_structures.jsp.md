@@ -1,11 +1,14 @@
-# Headline
+# Structures in Web Content
 
 ## Documentation
 
-* Sorry, no documentation linked yet - please contribute
+* [Designing Structured Content](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/designing-uniform-content)
+* [Authoring Content: Structured and Inline Content](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/authoring-content-structured-and-inline-content)
+* [Managing Web Content](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/managing-web-content)
 
 ## Related Topics
 
+* [Designing Web Content with Templates](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/designing-web-content-with-templates)
 
 ## Community Resources
 

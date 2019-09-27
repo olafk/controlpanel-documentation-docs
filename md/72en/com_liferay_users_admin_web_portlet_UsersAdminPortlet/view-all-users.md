@@ -1,10 +1,13 @@
-# Headline
+# Managing Users
 
 ## Documentation
 
-* Sorry, no documentation linked yet - please contribute
+* [Managing Users](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/managing-users)
 
 ## Related Topics
+
+* [Organizations](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/organizations)
+* [LDAP](https://portal.liferay.dev/docs/7-1/deploy/-/knowledge_base/d/ldap), (Link to 7.1 docs)
 
 
 ## Community Resources

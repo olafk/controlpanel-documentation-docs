@@ -1,11 +1,12 @@
-# Headline
+# Forms
 
 ## Documentation
 
-* Sorry, no documentation linked yet - please contribute
+* [Forms](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/forms)
 
 ## Related Topics
 
+* [Free lesson on University](https://university.liferay.com/transform-your-digital-operations-with-liferay-forms) [and on Passport](https://passport.liferay.com/transform-your-digital-operations-with-liferay-forms)
 
 ## Community Resources
 

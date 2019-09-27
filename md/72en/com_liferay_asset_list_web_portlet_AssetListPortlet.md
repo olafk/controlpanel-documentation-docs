@@ -1,8 +1,8 @@
-# Headline
+# Content Sets
 
 ## Documentation
 
-* Sorry, no documentation linked yet - please contribute
+* [Managing Content Sets](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/content-sets)
 
 ## Related Topics
 

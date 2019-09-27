@@ -1,4 +1,4 @@
-# Headline
+# Web Content
 
 ## Documentation
 
@@ -6,8 +6,11 @@
 
 ## Related Topics
 
+* [Assets](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/assets)
+* [Auto Tagging Web Content](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/auto-tagging-web-content)
 
 ## Community Resources
+
 
 
 ### Contribute

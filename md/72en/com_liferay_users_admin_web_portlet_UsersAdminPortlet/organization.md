@@ -1,11 +1,12 @@
-# Headline
+# User Management: Organizations
 
 ## Documentation
 
-* Sorry, no documentation linked yet - please contribute
+* [Organizations](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/organizations)
 
 ## Related Topics
 
+* [Managing Users](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/managing-users)
 
 ## Community Resources
 

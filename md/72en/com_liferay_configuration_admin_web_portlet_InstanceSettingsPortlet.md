@@ -1,8 +1,8 @@
-# Headline
+# Virtual Instances
 
 ## Documentation
 
-* Sorry, no documentation linked yet - please contribute
+* [Setting up a Virtual Instance](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/setting-up-a-virtual-instance)
 
 ## Related Topics
 

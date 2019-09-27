@@ -1,11 +1,12 @@
-# Headline
+# Knowledge Base Suggestions
 
 ## Documentation
 
-* Sorry, no documentation linked yet - please contribute
+* [Using the Knowledge Base](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/using-the-knowledge-base)
 
 ## Related Topics
 
+* [Control Panel → Configuration → System Settings → Knowledge Base](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/knowledge-base-system-settings)
 
 ## Community Resources
 

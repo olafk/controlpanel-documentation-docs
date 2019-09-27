@@ -1,8 +1,8 @@
-# Headline
+# Tags
 
 ## Documentation
 
-* Sorry, no documentation linked yet - please contribute
+* [Organizing Content with Tags and Categories](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/organizing-content-with-tags-and-categories)
 
 ## Related Topics
 

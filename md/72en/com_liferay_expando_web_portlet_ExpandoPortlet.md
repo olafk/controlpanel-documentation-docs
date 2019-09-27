@@ -1,8 +1,8 @@
-# Headline
+# Custom Fields
 
 ## Documentation
 
-* Sorry, no documentation linked yet - please contribute
+* [Custom Fields](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/custom-fields)
 
 ## Related Topics
 

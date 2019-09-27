@@ -1,11 +1,12 @@
-# Headline
+# Knowledge Base Templates
 
 ## Documentation
 
-* Sorry, no documentation linked yet - please contribute
+* [Knowledge Base Templates](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/knowledge-base-templates)
 
 ## Related Topics
 
+* [Control Panel → Configuration → System Settings → Knowledge Base](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/knowledge-base-system-settings)
 
 ## Community Resources
 

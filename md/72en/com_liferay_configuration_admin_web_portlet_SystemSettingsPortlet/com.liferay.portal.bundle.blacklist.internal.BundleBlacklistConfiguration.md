@@ -1,8 +1,8 @@
-# Headline
+# Blacklisting OSGi Bundles
 
 ## Documentation
 
-* Sorry, no documentation linked yet - please contribute
+* [Blacklisting OSGi Bundles and Components](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/blacklisting-osgi-bundles-and-components)
 
 ## Related Topics
 

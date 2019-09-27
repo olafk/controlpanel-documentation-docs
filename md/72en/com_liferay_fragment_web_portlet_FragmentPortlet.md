@@ -1,8 +1,8 @@
-# Headline
+# Fragments
 
 ## Documentation
 
-* Sorry, no documentation linked yet - please contribute
+* [Page Fragments](https://portal.liferay.dev/docs/7-2/frameworks/-/knowledge_base/f/page-fragments)
 
 ## Related Topics
 

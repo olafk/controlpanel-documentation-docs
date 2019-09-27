@@ -1,8 +1,8 @@
-# Headline
+# Gogo Shell
 
 ## Documentation
 
-* Sorry, no documentation linked yet - please contribute
+* [Troubleshooting Application Development Issues](https://portal.liferay.dev/docs/7-2/appdev/-/knowledge_base/a/troubleshooting-application-development-issues)
 
 ## Related Topics
 

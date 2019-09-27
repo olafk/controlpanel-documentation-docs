@@ -1,8 +1,8 @@
-# Headline
+# Workflow
 
 ## Documentation
 
-* Sorry, no documentation linked yet - please contribute
+* [Workflow](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/workflow)
 
 ## Related Topics
 
