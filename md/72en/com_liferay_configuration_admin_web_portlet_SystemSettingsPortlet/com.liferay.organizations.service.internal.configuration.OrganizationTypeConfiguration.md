@@ -1,8 +1,8 @@
-# Headline
+# Managing Organizations / Organization Types
 
 ## Documentation
 
-* Sorry, no documentation linked yet - please contribute
+* [Managing Organizations](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/managing-organizations#organization-types)
 
 ## Related Topics
 
