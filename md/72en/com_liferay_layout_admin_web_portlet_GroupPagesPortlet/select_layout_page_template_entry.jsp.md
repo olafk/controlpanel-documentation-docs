@@ -1,11 +1,16 @@
-# Headline
+# Adding Pages to Sites / Page Types
 
 ## Documentation
 
-* Sorry, no documentation linked yet - please contribute
+* [Adding Pages to Sites](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/creating-and-managing-pages)
+* [Creating Pages](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/creating-pages)
+* [Creating Widget Pages](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/creating-widget-pages)
+* [Creating Content Pages](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/creating-content-pages)
+* [Using Full Page Applications](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/using-full-page-applications)
 
 ## Related Topics
 
+* [Managing Site Navigation](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/managing-site-navigation)
 
 ## Community Resources
 

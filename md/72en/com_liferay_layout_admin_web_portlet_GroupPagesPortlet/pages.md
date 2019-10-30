@@ -1,8 +1,15 @@
-# Headline
+# Public and Private Pages
 
 ## Documentation
 
-* Sorry, no documentation linked yet - please contribute
+* [Managing Site Navigation](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/managing-site-navigation)
+
+## Related Topics
+
+* [Adding Pages to Sites](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/creating-and-managing-pages)
+* [Creating Pages](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/creating-pages)
+* [Creating Widget Pages](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/creating-widget-pages)
+* [Creating Content Pages](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/creating-content-pages)
 
 ## Related Topics
 

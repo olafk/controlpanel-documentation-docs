@@ -1,8 +1,8 @@
-# Headline
+# Individual Page Settings
 
 ## Documentation
 
-* Sorry, no documentation linked yet - please contribute
+* [Individual Page Settings](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/individual-page-settings)
 
 ## Related Topics
 
