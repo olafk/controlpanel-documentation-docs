@@ -4,6 +4,11 @@
 
 * [Managing Organizations](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/managing-organizations#organization-types)
 
+Important to know: The exported configuration file got a new name starting from DXP 7.2 SP1. If you've exported in DXP GA1 or FP1 (or CE GA1) the configuration and are wondering why your changes don't show up, you might need to change the exported file's name when running on a later patchlevel.
+
+* Old name: liferay-system-settings-com.liferay.organizations.service.internal.configuration.OrganizationTypeConfiguration.zip
+* New name: liferay-system-settings-com.liferay.organizations.internal.configuration.OrganizationTypeConfiguration.zip
+
 ## Related Topics
 
 
