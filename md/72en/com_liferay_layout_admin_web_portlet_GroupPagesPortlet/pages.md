@@ -16,6 +16,7 @@
 
 ## Community Resources
 
+* [Visualize Drag&Drop-zones in your page's layout](https://liferay.dev/blogs/-/blogs/dragging-and-dropping-widgets-on-the-page)
 
 ### Contribute
 

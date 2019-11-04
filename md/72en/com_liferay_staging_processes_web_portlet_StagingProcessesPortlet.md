@@ -9,6 +9,7 @@
 
 ## Community Resources
 
+* [David Nebinger: Content Creation is Not a Development Activity](https://liferay.dev/blogs/-/blogs/content-creation-is-not-a-development-activity-)
 
 ### Contribute
 
