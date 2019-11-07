@@ -11,9 +11,3 @@
 
 ## Community Resources
 
-* some
-* lines
-* to
-* make 
-* it
-* scroll
