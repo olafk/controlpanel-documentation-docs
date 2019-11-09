@@ -2,13 +2,14 @@
 
 ## Documentation
 
-* Sorry, no documentation linked yet - please contribute
+* [Styling Widgets with WidgetTemplates](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/styling-widgets-with-widget-templates)
 
 ## Related Topics
 
 
 ## Community Resources
 
+* [James Falkner: The Magic Template Variable Dumper Script](https://liferay.dev/blogs/-/blogs/the-magic-template-variable-dumper-script-for-liferay-7)
 
 ### Contribute
 
