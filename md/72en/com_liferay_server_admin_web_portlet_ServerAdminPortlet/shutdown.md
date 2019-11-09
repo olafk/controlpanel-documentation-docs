@@ -1,14 +1,18 @@
-# Headline
+# Server Administration / Shutdown
 
 ## Documentation
 
-* Sorry, no documentation linked yet - please contribute
+* [Server Administration](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/server-administration)
 
 ## Related Topics
 
 
 ## Community Resources
 
+
+## Additional Notes
+
+Note that this feature will shut down Liferay within your current application server, but the appserver itself will continue running. In order to restart Liferay, you will need to restart your application server.
 
 ### Contribute
 

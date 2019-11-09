@@ -1,4 +1,4 @@
-# Headline
+# OpenSSO (and OpenAM)
 
 ## Documentation
 

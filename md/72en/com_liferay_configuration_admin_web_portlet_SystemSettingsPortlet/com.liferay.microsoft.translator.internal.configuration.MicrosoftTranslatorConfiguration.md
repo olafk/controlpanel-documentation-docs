@@ -1,4 +1,4 @@
-# Headline
+# Microsoft Translator
 
 ## Documentation
 
@@ -6,6 +6,7 @@
 
 ## Related Topics
 
+* [Automatic Translation in custom code](https://portal.liferay.dev/docs/7-2/frameworks/-/knowledge_base/f/using-translation-features-in-your-widget)
 
 ## Community Resources
 

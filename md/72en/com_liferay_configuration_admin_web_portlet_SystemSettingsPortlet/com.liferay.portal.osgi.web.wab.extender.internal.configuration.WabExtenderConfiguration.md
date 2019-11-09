@@ -1,6 +1,8 @@
-# Headline
+# WAB Extender
 
 ## Documentation
+
+WAB extender is processing plugins deployed through WAR files into OSGi bundles (WAB=Web Application Bundle)
 
 * Sorry, no documentation linked yet - please contribute
 

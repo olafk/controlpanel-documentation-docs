@@ -1,4 +1,4 @@
-# Headline
+# LDAP Authentication
 
 ## Documentation
 

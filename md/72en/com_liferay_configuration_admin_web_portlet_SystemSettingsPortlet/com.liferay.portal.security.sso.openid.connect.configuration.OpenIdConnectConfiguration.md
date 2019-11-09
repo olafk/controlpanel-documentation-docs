@@ -1,4 +1,4 @@
-# Headline
+# OpenID Connect
 
 ## Documentation
 

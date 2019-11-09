@@ -1,4 +1,4 @@
-# Headline
+# Soy Templates
 
 ## Documentation
 

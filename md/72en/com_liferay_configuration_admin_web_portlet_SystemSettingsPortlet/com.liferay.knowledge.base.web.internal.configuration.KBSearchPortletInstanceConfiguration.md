@@ -1,4 +1,4 @@
-# Headline
+# Knowledge Base Search
 
 ## Documentation
 

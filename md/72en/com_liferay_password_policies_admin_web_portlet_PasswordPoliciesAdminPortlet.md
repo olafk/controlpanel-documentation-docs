@@ -6,6 +6,7 @@
 
 ## Related Topics
 
+* Control Panel / Configuration / System Settings / Users / Password Policies (for configuration of options used here)
 
 ## Community Resources
 

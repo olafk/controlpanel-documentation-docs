@@ -1,6 +1,8 @@
-# Headline
+# Password Policies
 
 ## Documentation
+
+These settings configure options for the actual Password Policy configuration
 
 * Sorry, no documentation linked yet - please contribute
 

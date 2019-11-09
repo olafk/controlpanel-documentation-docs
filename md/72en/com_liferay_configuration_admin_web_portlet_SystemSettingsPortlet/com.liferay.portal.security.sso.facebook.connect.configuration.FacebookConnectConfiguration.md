@@ -1,4 +1,4 @@
-# Headline
+# Facebook Connect
 
 ## Documentation
 

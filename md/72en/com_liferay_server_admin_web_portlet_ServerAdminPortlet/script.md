@@ -2,6 +2,7 @@
 
 ## Documentation
 
+* [Server Administration](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/server-administration)
 * [Using Liferay's ScriptEngine](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/using-liferays-script-engine)
 
 ## Related Topics

@@ -1,4 +1,4 @@
-# Headline
+# AntiSamy Configuration
 
 ## Documentation
 

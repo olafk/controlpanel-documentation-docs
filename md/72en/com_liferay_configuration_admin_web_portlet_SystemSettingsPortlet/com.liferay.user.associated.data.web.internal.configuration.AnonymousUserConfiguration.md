@@ -1,4 +1,4 @@
-# Headline
+# Anonymous User Configuration
 
 ## Documentation
 
@@ -6,6 +6,9 @@
 
 ## Related Topics
 
+* [Managing User Data](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/managing-user-data)
+* [Sanitizing User Data](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/managing-user-data)
+* GDPR
 
 ## Community Resources
 

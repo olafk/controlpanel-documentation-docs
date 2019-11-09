@@ -1,4 +1,4 @@
-# Headline
+# CAS Server Configuration
 
 ## Documentation
 

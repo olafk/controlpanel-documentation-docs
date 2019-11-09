@@ -1,11 +1,12 @@
-# Headline
+# Marketplace App Manager
 
 ## Documentation
 
-* Sorry, no documentation linked yet - please contribute
+* [Managing Apps](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/managing-apps)
 
 ## Related Topics
 
+* [Liferay's Marketplace](https://liferay.com/marketplace)
 
 ## Community Resources
 

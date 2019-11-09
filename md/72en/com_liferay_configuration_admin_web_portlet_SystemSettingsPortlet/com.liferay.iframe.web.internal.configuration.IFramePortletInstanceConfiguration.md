@@ -1,4 +1,4 @@
-# Headline
+# IFrame default configuration
 
 ## Documentation
 
