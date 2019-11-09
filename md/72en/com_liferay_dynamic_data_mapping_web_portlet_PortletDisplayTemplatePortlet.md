@@ -1,4 +1,4 @@
-# Headline
+# Widget Templates
 
 ## Documentation
 

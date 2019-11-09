@@ -1,4 +1,4 @@
-# Headline
+# Liferay's Script Engine
 
 ## Documentation
 

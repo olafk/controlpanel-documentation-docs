@@ -1,4 +1,4 @@
-# Headline
+# Web Content Editor
 
 ## Documentation
 
