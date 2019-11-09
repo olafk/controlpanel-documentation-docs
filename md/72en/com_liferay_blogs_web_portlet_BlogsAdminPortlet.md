@@ -1,14 +1,15 @@
-# Headline
+# Blogs
 
 ## Documentation
 
-* Sorry, no documentation linked yet - please contribute
+* [Publishing Blogs](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/publishing-blogs)
 
 ## Related Topics
 
 
 ## Community Resources
 
+* [Liferay Community Blogs](https://liferay.dev/blogs)
 
 ### Contribute
 
