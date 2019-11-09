@@ -1,4 +1,4 @@
-# Headline
+# Blogs
 
 ## Documentation
 
