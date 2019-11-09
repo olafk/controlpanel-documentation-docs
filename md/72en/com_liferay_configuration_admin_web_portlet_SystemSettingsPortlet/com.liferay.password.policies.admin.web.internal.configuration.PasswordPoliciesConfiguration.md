@@ -4,7 +4,7 @@
 
 These settings configure options for the actual Password Policy configuration
 
-* Sorry, no documentation linked yet - please contribute
+* [System Settings](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/system-settings)
 
 ## Related Topics
 

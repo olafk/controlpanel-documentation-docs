@@ -3,6 +3,7 @@
 ## Documentation
 
 * [Blacklisting OSGi Bundles and Components](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/blacklisting-osgi-bundles-and-components)
+* [System Settings](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/system-settings)
 
 ## Related Topics
 

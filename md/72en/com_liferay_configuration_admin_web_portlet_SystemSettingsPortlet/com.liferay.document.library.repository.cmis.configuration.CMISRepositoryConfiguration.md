@@ -3,6 +3,7 @@
 ## Documentation
 
 * [Using the CMIS Store](https://portal.liferay.dev/docs/7-1/deploy/-/knowledge_base/d/using-the-cmis-store) (links to 7.1 docs)
+* [System Settings](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/system-settings)
 
 ## Related Topics
 

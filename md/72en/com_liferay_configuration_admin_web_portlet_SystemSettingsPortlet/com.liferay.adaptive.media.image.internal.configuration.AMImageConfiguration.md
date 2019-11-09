@@ -3,6 +3,7 @@
 ## Documentation
 
 * [Adaptive Media Advanced Configuration](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/advanced-configuration-options)
+* [System Settings](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/system-settings)
 
 ## Related Topics
 
