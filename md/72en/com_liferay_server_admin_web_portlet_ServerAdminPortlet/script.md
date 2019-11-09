@@ -2,7 +2,7 @@
 
 ## Documentation
 
-* Sorry, no documentation linked yet - please contribute
+* [Using Liferay's ScriptEngine](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/using-liferays-script-engine)
 
 ## Related Topics
 
