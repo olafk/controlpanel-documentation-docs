@@ -1,7 +1,5 @@
 # Widget Templates
 
-## Documentation
-
 * [Styling Widgets with WidgetTemplates](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/styling-widgets-with-widget-templates)
 
 ## Related Topics
@@ -14,4 +12,4 @@
 
 ### Contribute
 
-[Edit this file on github](https://github.com/olafk/controlpanel-documentation-docs/blob/master/md/72en/com_liferay_dynamic_data_mapping_web_portlet_PortletDisplayTemplatePortlet.md)
+[Edit this file on github](https://github.com/olafk/controlpanel-documentation-docs/blob/master/md/72en/com_liferay_dynamic_data_mapping_web_portlet_PortletDisplayTemplatePortlet/display.md)
