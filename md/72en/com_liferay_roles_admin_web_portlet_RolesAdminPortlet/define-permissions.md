@@ -2,6 +2,7 @@
 
 ## Documentation
 
+* [Define Permissions](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/defining-role-permissions)
 * [Roles and Permissions](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/roles-and-permissions)
 
 ## Related Topics
