@@ -1,4 +1,4 @@
-# Announcements and Alerts 
+# Announcements and Alerts
 
 ## Documentation
 
@@ -13,4 +13,4 @@
  
 ### Contribute
 
-[Edit this file on github](https://github.com/olafk/controlpanel-documentation-docs/blob/master/md/72en/com_liferay_announcements_web_portlet_AnnouncementsAdminPortlet.md)
+[Edit this file on github](https://github.com/olafk/controlpanel-documentation-docs/blob/master/md/72en/com_liferay_announcements_web_portlet_AnnouncementsAdminPortlet/alerts.md)
