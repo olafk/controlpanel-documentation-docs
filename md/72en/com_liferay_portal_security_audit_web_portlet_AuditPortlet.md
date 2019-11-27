@@ -1,11 +1,13 @@
-# Headline
+# Audit
 
 ## Documentation
 
-* Sorry, no documentation linked yet - please contribute
+* [Viewing Audit Events](https://help.liferay.com/hc/en-us/articles/360028822152-Viewing-Audit-Events)
 
 ## Related Topics
 
+* [Configuring Audits](https://help.liferay.com/hc/en-us/articles/360029134891-Configuring-Audits)
+* [Auditing Users](https://help.liferay.com/hc/en-us/articles/360029134871-Auditing-Users)
 
 ## Community Resources
 

@@ -1,11 +1,12 @@
-# Headline
+# Sites
 
 ## Documentation
 
-* Sorry, no documentation linked yet - please contribute
+* [Site Management](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/site-management)
 
 ## Related Topics
 
+* [User Group Sites](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/user-group-sites)
 
 ## Community Resources
 

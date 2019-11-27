@@ -1,11 +1,13 @@
-# Headline
+# OAuth2
 
 ## Documentation
 
-* Sorry, no documentation linked yet - please contribute
+* [Making Authenticated Requests](https://portal.liferay.dev/docs/7-2/frameworks/-/knowledge_base/f/making-authenticated-requests)
+* [Web Services](https://portal.liferay.dev/docs/7-2/frameworks/-/knowledge_base/f/web-services)
 
 ## Related Topics
 
+* For Developers: [OAuth2](https://portal.liferay.dev/docs/7-2/deploy/-/knowledge_base/d/oauth-2-0)
 
 ## Community Resources
 

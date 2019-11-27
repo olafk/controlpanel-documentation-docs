@@ -1,4 +1,4 @@
-# Headline
+# License Manager
 
 ## Documentation
 
@@ -6,6 +6,7 @@
 
 ## Related Topics
 
+* [Managing and Configuring Apps](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/managing-apps)
 
 ## Community Resources
 

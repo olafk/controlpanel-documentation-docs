@@ -1,14 +1,15 @@
-# Headline
+# Site Templates
 
 ## Documentation
 
-* Sorry, no documentation linked yet - please contribute
+* [Managing Site Templates](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/managing-site-templates)
 
 ## Related Topics
 
 
 ## Community Resources
 
+* API name of a Site Template: `LayoutSetPrototype`
 
 ### Contribute
 

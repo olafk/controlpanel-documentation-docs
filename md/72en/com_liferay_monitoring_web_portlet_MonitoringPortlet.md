@@ -1,11 +1,12 @@
-# Headline
+# Monitoring / Live Users
 
 ## Documentation
 
-* Sorry, no documentation linked yet - please contribute
+* Just a mention in [Managing Users](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/managing-users)
 
 ## Related Topics
 
+* [portal.properties documentation](https://docs.liferay.com/portal/7.2-ga1/propertiesdoc/portal.properties.html#Live%20Users)
 
 ## Community Resources
 

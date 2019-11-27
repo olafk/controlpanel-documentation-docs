@@ -1,10 +1,12 @@
-# Headline
+# Search Synonyms
 
 ## Documentation
 
 * Sorry, no documentation linked yet - please contribute
 
 ## Related Topics
+
+* [Search](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/search)
 
 ## Community Resources
 

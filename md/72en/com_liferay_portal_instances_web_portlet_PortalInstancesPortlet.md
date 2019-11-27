@@ -9,3 +9,4 @@
 
 ## Community Resources
 
+* Olaf Kock: [The right tool for the job?](https://liferay.dev/blogs/-/blogs/the-right-tool-for-the-job-chapter-1-instances) (for an old version, but still applicable)
