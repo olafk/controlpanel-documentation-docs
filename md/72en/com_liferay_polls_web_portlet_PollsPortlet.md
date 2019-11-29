@@ -1,8 +1,8 @@
-# Headline
+# Polls
 
 ## Documentation
 
-* Sorry, no documentation linked yet - please contribute
+* [Polls](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/polls)
 
 ## Related Topics
 

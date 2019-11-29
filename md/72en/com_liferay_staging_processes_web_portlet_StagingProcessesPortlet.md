@@ -1,11 +1,12 @@
-# Headline
+# Staging
 
 ## Documentation
 
-* Sorry, no documentation linked yet - please contribute
+* [Content Publication Management](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/content-publication-management)
 
 ## Related Topics
 
+* [Workflow](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/workflow)
 
 ## Community Resources
 

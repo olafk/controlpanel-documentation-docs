@@ -1,11 +1,12 @@
-# Headline
+# Navigation
 
 ## Documentation
 
-* Sorry, no documentation linked yet - please contribute
+* [Navigation Management](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/managing-site-navigation)
 
 ## Related Topics
 
+* (Developer) [Customizing the Navigation in themes](https://portal.liferay.dev/docs/7-2/tutorials/-/knowledge_base/t/customizing-the-navigation)
 
 ## Community Resources
 

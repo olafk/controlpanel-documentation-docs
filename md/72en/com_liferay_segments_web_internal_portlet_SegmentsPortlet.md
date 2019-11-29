@@ -1,11 +1,12 @@
-# Headline
+# Segments
 
 ## Documentation
 
-* Sorry, no documentation linked yet - please contribute
+* [Segmentation and Personalization](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/segmentation-and-personalization)
 
 ## Related Topics
 
+* (Development) [Segment Management](https://portal.liferay.dev/docs/7-2/frameworks/-/knowledge_base/f/segment-management)
 
 ## Community Resources
 

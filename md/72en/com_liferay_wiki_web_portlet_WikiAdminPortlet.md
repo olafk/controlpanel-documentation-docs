@@ -1,8 +1,8 @@
-# Headline
+# Wiki
 
 ## Documentation
 
-* Sorry, no documentation linked yet - please contribute
+* [Working together with the Wiki](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/working-together-with-the-wiki)
 
 ## Related Topics
 

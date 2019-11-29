@@ -1,8 +1,8 @@
-# Headline
+# Dynamic Data List
 
 ## Documentation
 
-* Sorry, no documentation linked yet - please contribute
+* [Dynamic Data Lists](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/dynamic-data-lists)
 
 ## Related Topics
 

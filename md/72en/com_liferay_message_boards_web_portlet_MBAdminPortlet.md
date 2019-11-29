@@ -1,8 +1,8 @@
-# Headline
+# Message Boards
 
 ## Documentation
 
-* Sorry, no documentation linked yet - please contribute
+* Creating Forums with Message Boards](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/creating-forums-with-message-boards)
 
 ## Related Topics
 

@@ -1,8 +1,8 @@
-# Headline
+# Site Settings
 
 ## Documentation
 
-* Sorry, no documentation linked yet - please contribute
+* [Configuring Site Settings](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/configuring-site-settings)
 
 ## Related Topics
 
