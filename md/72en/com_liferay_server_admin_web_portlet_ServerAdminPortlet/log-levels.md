@@ -9,6 +9,7 @@
 
 ## Community Resources
 
+* [Liferay Logging is Dead! Long Live Liferay Logging!](https://liferay.dev/blogs/-/blogs/liferay-logging-is-dead-long-live-liferay-logging-)
 
 ### Contribute
 

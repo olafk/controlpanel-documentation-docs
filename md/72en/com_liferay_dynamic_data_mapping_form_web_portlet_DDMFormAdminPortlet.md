@@ -10,6 +10,7 @@
 
 ## Community Resources
 
+* [An introduction to Liferay Forms customization](https://liferay.dev/blogs/-/blogs/an-introduction-to-liferay-forms-customization)
 
 ### Contribute
 

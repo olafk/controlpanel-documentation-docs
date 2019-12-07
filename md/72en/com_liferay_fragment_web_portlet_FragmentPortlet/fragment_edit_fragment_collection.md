@@ -1,11 +1,12 @@
-# Headline
+# Fragment Collections
 
 ## Documentation
 
-* Sorry, no documentation linked yet - please contribute
+* [Managing Fragments and Collections](https://portal.liferay.dev/docs/7-2/frameworks/-/knowledge_base/f/managing-fragments-and-collections)
 
 ## Related Topics
 
+* [Page Fragments](https://portal.liferay.dev/docs/7-2/frameworks/-/knowledge_base/f/page-fragments)
 
 ## Community Resources
 
