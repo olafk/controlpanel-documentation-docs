@@ -10,6 +10,7 @@
 ## Community Resources
 
 * [Liferay Logging is Dead! Long Live Liferay Logging!](https://liferay.dev/blogs/-/blogs/liferay-logging-is-dead-long-live-liferay-logging-)
+* [Making Logging changes persistent](https://liferay.dev/blogs/-/blogs/liferay-7-dxp-making-logging-changes-persistent) (7.0)
 
 ### Contribute
 
