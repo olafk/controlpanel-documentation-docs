@@ -3,6 +3,7 @@
 ## Documentation
 
 * [User Groups](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/user-groups)
+* [User Group Sites](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/user-group-sites)
 
 ## Related Topics
 
@@ -11,4 +12,5 @@
 * [User Groups and Site Membership](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/user-groups-and-site-membership)
 
 ## Community Resources
+
 
