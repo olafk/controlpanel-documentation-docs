@@ -1,8 +1,8 @@
-# Headline
+# Token based SSO
 
 ## Documentation
 
-* Sorry, no documentation linked yet - please contribute
+* [Token-based Single Sign On Authentication](https://portal.liferay.dev/docs/7-2/deploy/-/knowledge_base/d/token-based-single-sign-on-authentication)
 
 ## Related Topics
 

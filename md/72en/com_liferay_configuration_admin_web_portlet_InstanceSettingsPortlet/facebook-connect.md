@@ -1,8 +1,8 @@
-# Headline
+# Facebook Connect
 
 ## Documentation
 
-* Sorry, no documentation linked yet - please contribute
+* [Facebook Connect Single Sign On Authentication](https://portal.liferay.dev/docs/7-0/deploy/-/knowledge_base/d/opensso-single-sign-on-authentication) (7.0)
 
 ## Related Topics
 

@@ -1,14 +1,15 @@
-# Headline
+# OpenSSO, OpenAM
 
 ## Documentation
 
-* Sorry, no documentation linked yet - please contribute
+* [OpenAM Single Sign On Authentication](https://portal.liferay.dev/docs/7-2/deploy/-/knowledge_base/d/opensso-single-sign-on-authentication)
 
 ## Related Topics
 
 
 ## Community Resources
 
+* [Open Identity Platform](https://www.openidentityplatform.org/openam)
 
 ### Contribute
 

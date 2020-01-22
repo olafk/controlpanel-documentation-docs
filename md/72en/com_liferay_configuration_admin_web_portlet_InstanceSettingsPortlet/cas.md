@@ -1,8 +1,8 @@
-# Headline
+# CAS Single Sign On Authentication
 
 ## Documentation
 
-* Sorry, no documentation linked yet - please contribute
+* [CAS (Central Authentication Service) Single Sign On Authentication](https://portal.liferay.dev/docs/7-2/deploy/-/knowledge_base/d/cas-central-authentication-service-single-sign-on-authentication)
 
 ## Related Topics
 

@@ -2,9 +2,12 @@
 
 ## Documentation
 
-* [System Settings](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/system-settings)
+* [Authenticating with OpenID Connect](https://portal.liferay.dev/docs/7-2/deploy/-/knowledge_base/d/authenticating-with-openid-connect)
+* [OpenID Single Sign On Authentication](https://portal.liferay.dev/docs/7-2/deploy/-/knowledge_base/d/openid-single-sign-on-authentication)
 
 ## Related Topics
+
+* [System Settings](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/system-settings)
 
 
 ## Community Resources
