@@ -1,8 +1,9 @@
-# Headline
+# Infrastructure / Export/Import
 
 ## Documentation
 
-* Sorry, no documentation linked yet - please contribute
+* [More Platform Instance Settings](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/more-platform-section-instance-settings)
+
 
 ## Related Topics
 

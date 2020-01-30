@@ -1,14 +1,16 @@
-# Headline
+# Analytics
 
 ## Documentation
 
-* Sorry, no documentation linked yet - please contribute
+* [More Platform Instance Settings](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/more-platform-section-instance-settings)
 
 ## Related Topics
 
+* [Liferay Analytics Cloud](https://www.liferay.com/products/analytics-cloud)
 
 ## Community Resources
 
+* [Piwik's "new" name: Matomo](https://matomo.org/)
 
 ### Contribute
 
