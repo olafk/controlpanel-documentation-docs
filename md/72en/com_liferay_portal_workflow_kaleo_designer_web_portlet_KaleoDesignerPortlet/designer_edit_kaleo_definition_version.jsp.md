@@ -1,8 +1,9 @@
-# Headline
+# Workflow Definition Editor
 
 ## Documentation
 
-* Sorry, no documentation linked yet - please contribute
+* [Crafting XML Workflow Definitions](https://portal.liferay.dev/docs/7-2/reference/-/knowledge_base/r/crafting-xml-workflow-definitions)
+* [Leveraging the Script Engine in Workflow](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/leveraging-the-script-engine-in-workflow)
 
 ## Related Topics
 
