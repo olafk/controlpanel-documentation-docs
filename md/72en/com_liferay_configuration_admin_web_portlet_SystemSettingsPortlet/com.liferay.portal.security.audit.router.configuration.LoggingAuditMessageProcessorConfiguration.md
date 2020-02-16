@@ -1,11 +1,13 @@
-# Headline
+# Logging Message Audit Message Processor
 
 ## Documentation
 
-* [System Settings](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/system-settings)
+* [Configuring Audits](https://help.liferay.com/hc/en-us/articles/360029134891-Configuring-Audits)
+* [Auditing Users](https://help.liferay.com/hc/en-us/articles/360018156231-Auditing-Users)
 
 ## Related Topics
 
+* [System Settings](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/system-settings)
 
 ## Community Resources
 
