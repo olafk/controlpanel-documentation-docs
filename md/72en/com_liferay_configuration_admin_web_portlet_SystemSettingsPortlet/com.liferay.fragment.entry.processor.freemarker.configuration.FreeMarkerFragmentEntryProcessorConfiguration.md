@@ -1,4 +1,4 @@
-# Headline
+# Freemarker Fragment Editor Processor
 
 ## Documentation
 

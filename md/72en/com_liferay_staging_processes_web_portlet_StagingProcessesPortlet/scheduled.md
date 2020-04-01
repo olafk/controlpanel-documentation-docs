@@ -1,4 +1,4 @@
-# Staging Processes
+# Scheduled Staging Processes
 
 ## Documentation
 
@@ -14,4 +14,4 @@
 
 ### Contribute
 
-[Edit this file on github](https://github.com/olafk/controlpanel-documentation-docs/blob/master/md/72en/com_liferay_staging_processes_web_portlet_StagingProcessesPortlet.md)
+[Edit this file on github](https://github.com/olafk/controlpanel-documentation-docs/blob/master/md/72en/com_liferay_staging_processes_web_portlet_StagingProcessesPortlet/scheduled.md)

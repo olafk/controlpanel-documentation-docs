@@ -10,6 +10,7 @@
 
 ## Community Resources
 
+* [Getting the Right Content to the Right Users](https://liferay.dev/blogs/-/blogs/getting-the-right-content-to-the-right-users)
 
 ### Contribute
 

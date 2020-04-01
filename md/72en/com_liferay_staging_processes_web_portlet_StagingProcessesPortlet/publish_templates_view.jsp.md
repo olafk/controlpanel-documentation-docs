@@ -1,4 +1,4 @@
-# Staging Processes
+# Staging - "Publish Templates"
 
 ## Documentation
 
@@ -14,4 +14,4 @@
 
 ### Contribute
 
-[Edit this file on github](https://github.com/olafk/controlpanel-documentation-docs/blob/master/md/72en/com_liferay_staging_processes_web_portlet_StagingProcessesPortlet.md)
+[Edit this file on github](https://github.com/olafk/controlpanel-documentation-docs/blob/master/md/72en/com_liferay_staging_processes_web_portlet_StagingProcessesPortlet/publish_templates_view.jsp.md)

@@ -1,4 +1,4 @@
-# Headline
+# Lodash Configuration
 
 ## Documentation
 

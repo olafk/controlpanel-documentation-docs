@@ -1,4 +1,4 @@
-# Headline
+# JQuery Configuration
 
 ## Documentation
 
@@ -9,6 +9,7 @@
 
 ## Community Resources
 
+* [jQuery is disabled, long live jQuery](https://liferay.dev/blogs/-/blogs/jquery-is-disabled-long-live-jquery)
 
 ### Contribute
 

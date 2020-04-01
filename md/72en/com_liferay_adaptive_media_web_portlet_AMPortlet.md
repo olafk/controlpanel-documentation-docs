@@ -7,7 +7,7 @@
 ## Related Topics
 
 * [Migrating Documents and Media Thumbnails to Adaptive Media](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/migrating-documents-and-media-thumbnails-to-adaptive-media)
-* [The Adaptive Media Framework](https://portal.liferay.dev/docs/7-2/frameworks/-/knowledge_base/f/adaptive-media)
+* [The Adaptive Media Framework](https://portal.liferay.dev/docs/7-2/frameworks/-/knowledge_base/f/adaptive-media) (for Developers)
 
 ## Community Resources
 

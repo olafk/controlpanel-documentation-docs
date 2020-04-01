@@ -1,4 +1,4 @@
-# Headline
+# Fragments Thumbnail Configuration
 
 ## Documentation
 
