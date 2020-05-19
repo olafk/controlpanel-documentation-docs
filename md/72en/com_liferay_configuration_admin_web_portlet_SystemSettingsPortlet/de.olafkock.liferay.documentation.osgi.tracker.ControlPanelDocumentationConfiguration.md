@@ -11,6 +11,8 @@ You're welcome to do so, but will have to update the documentation and links you
 
 If you don't remember where you got this plugin: It's available on [Liferay's Marketplace](https://web.liferay.com/marketplace/-/mp/application/170064253)
 
+## Related Topics
+
 * [System Settings](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/system-settings)
 
 ### Contribute
