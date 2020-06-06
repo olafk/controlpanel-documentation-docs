@@ -9,6 +9,7 @@
 
 ## Community Resources
 
+* If you're looking for the OpenOffice settings that used to be here in earlier versions, they're now moved to *System Settings / Connectors*
 
 ### Contribute
 
