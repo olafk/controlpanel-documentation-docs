@@ -1,11 +1,12 @@
-# Headline
+# LDAP Import
 
 ## Documentation
 
-* Sorry, no documentation linked yet - please contribute
+* [LDAP](https://help.liferay.com/hc/en-us/articles/360029031771-LDAP)
 
 ## Related Topics
 
+* see also: LDAP settings in System Settings
 
 ## Community Resources
 

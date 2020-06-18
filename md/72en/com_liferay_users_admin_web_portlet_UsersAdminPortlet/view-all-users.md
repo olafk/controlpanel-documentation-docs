@@ -8,7 +8,8 @@
 
 * [Password Policies](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/password-policies)
 * [Organizations](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/organizations)
-* [LDAP](https://portal.liferay.dev/docs/7-1/deploy/-/knowledge_base/d/ldap), (Link to 7.1 docs)
+* [LDAP](https://help.liferay.com/hc/en-us/articles/360029031771-LDAP)
+
 
 ## Community Resources
 

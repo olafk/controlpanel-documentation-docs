@@ -3,9 +3,11 @@
 ## Documentation
 
 * [System Settings](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/system-settings)
+* [LDAP](https://help.liferay.com/hc/en-us/articles/360029031771-LDAP)
 
 ## Related Topics
 
+* see also: LDAP settings in Instance Settings
 
 ## Community Resources
 

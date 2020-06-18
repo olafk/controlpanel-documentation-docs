@@ -7,7 +7,8 @@
 
 ## Related Topics
 
-* [LDAP](https://portal.liferay.dev/docs/7-1/deploy/-/knowledge_base/d/ldap), (Link to 7.1 docs)
+* [LDAP](https://help.liferay.com/hc/en-us/articles/360029031771-LDAP)
+
 
 ## Community Resources
 
