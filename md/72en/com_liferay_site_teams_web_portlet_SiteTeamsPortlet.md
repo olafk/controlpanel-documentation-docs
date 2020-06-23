@@ -9,6 +9,7 @@
 * [Managing Members in your Site](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/managing-members-in-your-site)
 * [User Groups and Site Membership](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/user-groups-and-site-membership)
 * [Understanding Site Management](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/understanding-site-management)
+
 ## Community Resources
 
 
