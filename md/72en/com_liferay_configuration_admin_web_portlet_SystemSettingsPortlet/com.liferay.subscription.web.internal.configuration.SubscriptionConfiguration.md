@@ -1,4 +1,4 @@
-# Headline
+# Subscriptions
 
 ## Documentation
 

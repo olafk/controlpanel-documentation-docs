@@ -1,4 +1,4 @@
-# Headline
+# Social Activity
 
 ## Documentation
 

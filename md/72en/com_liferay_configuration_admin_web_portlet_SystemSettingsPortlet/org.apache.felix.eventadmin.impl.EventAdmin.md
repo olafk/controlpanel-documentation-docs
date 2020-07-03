@@ -1,4 +1,4 @@
-# Headline
+# Felix Event Admin
 
 ## Documentation
 
