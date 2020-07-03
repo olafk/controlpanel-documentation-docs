@@ -11,4 +11,6 @@
 ## Community Resources
 
 
+### Contribute
 
+[Edit this file on github](https://github.com/olafk/controlpanel-documentation-docs/blob/master/md/72en/com_liferay_users_admin_web_portlet_MyOrganizationsPortlet.md)
