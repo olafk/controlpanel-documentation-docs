@@ -3,7 +3,7 @@
 ## Documentation
 
 * [System Settings](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/system-settings)
-* [LDAP](https://help.liferay.com/hc/en-us/articles/360029031771-LDAP)
+* [DevOps in User Management](https://learn.liferay.com/dxp/7.x/en/users-and-permissions/devops.html)
 
 ## Related Topics
 
