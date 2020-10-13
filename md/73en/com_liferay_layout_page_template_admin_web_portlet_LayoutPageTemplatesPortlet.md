@@ -2,14 +2,12 @@
 
 ## Documentation
 
-* No documentation yet
+* Sorry, no documentation linked yet - please contribute
 
 ## Related Topics
 
-
 ## Community Resources
-
 
 ### Contribute
 
-[Edit this file on github](https://github.com/olafk/controlpanel-documentation-docs/blob/master/md/73en/com_liferay_layout_page_template_admin_web_portlet_LayoutPageTemplatesPortlet.md)
+[Edit this file on github](https://github.com/olafk/controlpanel-documentation-docs/blob/master/md/73en/com_liferay_layout_page_template_admin_web_portlet_LayoutPageTemplatesPortlet.html)

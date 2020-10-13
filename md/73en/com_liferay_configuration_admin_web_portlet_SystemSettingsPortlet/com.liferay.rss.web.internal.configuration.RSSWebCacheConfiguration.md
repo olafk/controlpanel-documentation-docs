@@ -1,15 +1,13 @@
-# Headline
+# RSS
 
 ## Documentation
 
-* [System Settings](https://learn.liferay.com/dxp/7.x/en/system-administration/system-settings/system-settings.html)
+* Sorry, no documentation linked yet - please contribute
 
 ## Related Topics
 
-
 ## Community Resources
-
 
 ### Contribute
 
-[Edit this file on github](https://github.com/olafk/controlpanel-documentation-docs/blob/master/md/73en/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet/com.liferay.rss.web.internal.configuration.RSSWebCacheConfiguration.md)
+[Edit this file on github](https://github.com/olafk/controlpanel-documentation-docs/blob/master/md/73en/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet/com.liferay.rss.web.internal.configuration.RSSWebCacheConfiguration.html)

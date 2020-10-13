@@ -1,4 +1,4 @@
-# Commerce / Product Definition
+# Products
 
 ## Documentation
 
@@ -10,4 +10,4 @@
 
 ### Contribute
 
-[Edit this file on github](https://github.com/olafk/controlpanel-documentation-docs/blob/master/md/73en/com_liferay_commerce_product_definitions_web_internal_portlet_CPDefinitionsPortlet/editProductDefinition.md)
+[Edit this file on github](https://github.com/olafk/controlpanel-documentation-docs/blob/master/md/73en/com_liferay_commerce_product_definitions_web_internal_portlet_CPDefinitionsPortlet/editProductDefinition.html)
