@@ -1116,6 +1116,18 @@
 				"mediaType": null,
 				"mediaURL": null,
 				"secondary": "-"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.3\/com_liferay_mobile_device_rules_web_portlet_MDRPortlet\/mobile_device_rules_view.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "mobile_device_rules_view"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.3\/com_liferay_mobile_device_rules_web_portlet_MDRPortlet\/mobile_device_rules_edit_rule.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "mobile_device_rules_edit_rule"
 			}
 		]
 	},
@@ -1215,6 +1227,12 @@
 				"mediaType": "video",
 				"mediaURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.3\/media\/users-and-organizations-organizations.mp4",
 				"secondary": "view-all-organizations"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.3\/com_liferay_users_admin_web_portlet_UsersAdminPortlet\/users_admin_edit_user.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "users_admin_edit_user"
 			}
 		]
 	},
@@ -1350,6 +1368,12 @@
 				"mediaType": "video",
 				"mediaURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.3\/media\/usergroups.mp4",
 				"secondary": "edit_user_group.jsp"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.3\/com_liferay_user_groups_admin_web_portlet_UserGroupsAdminPortlet\/edit_user_group_assignments.jsp.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "edit_user_group_assignments.jsp"
 			}
 		]
 	},
@@ -3486,6 +3510,12 @@
 				"mediaType": null,
 				"mediaURL": null,
 				"secondary": "404-urls"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.3\/com_liferay_redirect_web_internal_portlet_RedirectPortlet\/redirect_edit_redirect_entry.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "redirect_edit_redirect_entry"
 			}
 		]
 	},
@@ -4006,6 +4036,12 @@
 				"mediaType": null,
 				"mediaURL": null,
 				"secondary": "-"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.3\/com_liferay_staging_processes_web_portlet_StagingProcessesPortlet\/scheduled.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "scheduled"
 			}
 		]
 	},
