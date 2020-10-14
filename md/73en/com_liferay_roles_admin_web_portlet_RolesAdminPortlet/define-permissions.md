@@ -2,10 +2,8 @@
 
 ## Documentation
 
-* [Define Permissions](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/defining-role-permissions)
-* Note: link covers version 7.2 - requires update
-* [Roles and Permissions](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/roles-and-permissions)
-* Note: link covers version 7.2 - requires update
+* [Roles and Permissions](https://learn.liferay.com/dxp/7.x/en/users-and-permissions/roles_and_permissions.html)
+* [Defining Role Permissions](https://learn.liferay.com/dxp/7.x/en/users-and-permissions/roles-and-permissions/defining-role-permissions.html)
 
 ## Related Topics
 
