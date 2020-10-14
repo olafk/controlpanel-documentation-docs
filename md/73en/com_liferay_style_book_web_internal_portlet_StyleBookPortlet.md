@@ -10,6 +10,8 @@
 
 ## Community Resources
 
+* [Marcos Castro at /dev/24: Dynamic Styling in DXP](https://liferay.dev/24#Dynamic%20Styling%20in%20DXP) - with [Video](https://youtu.be/Mu0LcyOPadQ?t=33500)
+
 ### Contribute
 
 [Edit this file on github](https://github.com/olafk/controlpanel-documentation-docs/blob/master/md/73en/com_liferay_style_book_web_internal_portlet_StyleBookPortlet.md)
