@@ -12,7 +12,7 @@
 
 ## Community Resources
 
-* [Screencast: Liferay DXP and Elasticsearch 7](https://liferay.dev/blogs/-/blogs/screencast-liferay-dxp-and-elasticsearch-7)
+* [Neil Griffin, Screencast: Liferay DXP and Elasticsearch 7](https://liferay.dev/blogs/-/blogs/screencast-liferay-dxp-and-elasticsearch-7)
 
 ### Contribute
 

@@ -1744,6 +1744,12 @@
 				"mediaType": null,
 				"mediaURL": null,
 				"secondary": "index-actions"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.3\/com_liferay_portal_search_admin_web_portlet_SearchAdminPortlet\/connections.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "connections"
 			}
 		]
 	},
