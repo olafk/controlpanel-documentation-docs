@@ -10,4 +10,4 @@
 
 ### Contribute
 
-[Edit this file on github](https://github.com/olafk/controlpanel-documentation-docs/blob/master/md/73en/com_liferay_commerce_pricing_web_internal_portlet_CommercePriceListPortlet.html)
+[Edit this file on github](https://github.com/olafk/controlpanel-documentation-docs/blob/master/md/73en/com_liferay_commerce_pricing_web_internal_portlet_CommercePriceListPortlet.md)

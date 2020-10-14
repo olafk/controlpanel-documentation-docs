@@ -10,4 +10,4 @@
 
 ### Contribute
 
-[Edit this file on github](https://github.com/olafk/controlpanel-documentation-docs/blob/master/md/73en/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet/com.liferay.commerce.media.internal.configuration.CommerceMediaDefaultImageConfiguration.html)
+[Edit this file on github](https://github.com/olafk/controlpanel-documentation-docs/blob/master/md/73en/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet/com.liferay.commerce.media.internal.configuration.CommerceMediaDefaultImageConfiguration.md)

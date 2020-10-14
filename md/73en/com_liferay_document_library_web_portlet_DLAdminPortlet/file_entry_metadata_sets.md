@@ -10,4 +10,4 @@
 
 ### Contribute
 
-[Edit this file on github](https://github.com/olafk/controlpanel-documentation-docs/blob/master/md/73en/com_liferay_document_library_web_portlet_DLAdminPortlet/file_entry_metadata_sets.html)
+[Edit this file on github](https://github.com/olafk/controlpanel-documentation-docs/blob/master/md/73en/com_liferay_document_library_web_portlet_DLAdminPortlet/file_entry_metadata_sets.md)
