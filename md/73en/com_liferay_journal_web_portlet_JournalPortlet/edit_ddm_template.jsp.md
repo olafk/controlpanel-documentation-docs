@@ -2,12 +2,7 @@
 
 ## Documentation
 
-* [Designing Web Content with Templates](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/designing-web-content-with-templates)
-* Note: link covers version 7.2 - requires update
-* [Authoring Content: Structured and Inline Content](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/authoring-content-structured-and-inline-content)
-* Note: link covers version 7.2 - requires update
-* [Managing Web Content](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/managing-web-content)
-* Note: link covers version 7.2 - requires update
+* [Web Content Templates](https://learn.liferay.com/dxp/7.x/en/content-authoring-and-management/web-content/web_content_templates.html)
 
 ## Related Topics
 

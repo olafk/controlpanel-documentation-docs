@@ -2,7 +2,7 @@
 
 ## Documentation
 
-* Sorry, no documentation linked yet - please contribute
+* [Using Display Page Templates](https://learn.liferay.com/dxp/7.x/en/site-building/displaying-content/using_display_page_templates.html)
 
 ## Related Topics
 

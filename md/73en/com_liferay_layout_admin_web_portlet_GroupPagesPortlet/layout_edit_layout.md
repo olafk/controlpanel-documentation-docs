@@ -2,15 +2,17 @@
 
 ## Documentation
 
-* [Individual Page Settings](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/individual-page-settings)
-* Note: link covers version 7.2 - requires update
+* [Page Configuration UI Reference](https://learn.liferay.com/dxp/7.x/en/site-building/creating-pages/page-settings/page-configuration-ui-reference.html)
+* [Page Settings](https://learn.liferay.com/dxp/7.x/en/site-building/creating-pages/page_settings.html)
 
 ## Related Topics
 
+* [Creating Pages](https://learn.liferay.com/dxp/7.x/en/site-building/creating_pages.html)
+* [Understanding Pages](https://learn.liferay.com/dxp/7.x/en/site-building/creating-pages/understanding_pages.html)
+* [Configuring Page Sets](https://learn.liferay.com/dxp/7.x/en/site-building/creating-pages/page-settings/configuring-page-sets.html)
 
 ## Community Resources
 
-* [Visualize Drag&Drop-zones in your page's layout](https://liferay.dev/blogs/-/blogs/dragging-and-dropping-widgets-on-the-page)
 
 ### Contribute
 

@@ -2,10 +2,11 @@
 
 ## Documentation
 
-* [Page Fragments](https://portal.liferay.dev/docs/7-2/frameworks/-/knowledge_base/f/page-fragments)
-* Note: link covers version 7.2 - requires update
+* [Developing Page Fragments](https://learn.liferay.com/dxp/7.x/en/site-building/developer-guide/developing_page_fragments.html)
 
 ## Related Topics
+
+* [Building and Managing Content Pages](https://learn.liferay.com/dxp/7.x/en/site-building/creating-pages/building_and_managing_content_pages.html)
 
 
 ## Community Resources

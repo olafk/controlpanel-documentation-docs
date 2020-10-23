@@ -1159,6 +1159,12 @@
 				"secondary": "select_layout_page_template_entry.jsp"
 			},
 			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.3\/com_liferay_layout_admin_web_portlet_GroupPagesPortlet\/select_layout_collections.jsp.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "select_layout_collections.jsp"
+			},
+			{
 				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.3\/com_liferay_layout_admin_web_portlet_GroupPagesPortlet\/layout_edit_layout.html",
 				"mediaType": null,
 				"mediaURL": null,
@@ -1169,6 +1175,12 @@
 				"mediaType": null,
 				"mediaURL": null,
 				"secondary": "layout_edit_layout_page_template_collection"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.3\/com_liferay_layout_admin_web_portlet_GroupPagesPortlet\/layout_edit_layout_set.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "layout_edit_layout_set"
 			},
 			{
 				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.3\/com_liferay_layout_admin_web_portlet_GroupPagesPortlet\/display-page-templates.html",

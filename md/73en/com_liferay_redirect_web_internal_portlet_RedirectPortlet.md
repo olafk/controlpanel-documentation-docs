@@ -2,7 +2,7 @@
 
 ## Documentation
 
-* Sorry, no documentation linked yet - please contribute
+* [Using the Redirection Tool](https://learn.liferay.com/dxp/7.x/en/site-building/site-settings/managing-site-urls/using-the-redirection-tool.html)
 
 ## Related Topics
 

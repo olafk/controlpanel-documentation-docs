@@ -2,7 +2,7 @@
 
 ## Documentation
 
-* Sorry, no documentation linked yet - please contribute
+* [Creating a Page Template](https://learn.liferay.com/dxp/7.x/en/site-building/creating-pages/adding-pages/creating-a-page-template.html)
 
 ## Related Topics
 

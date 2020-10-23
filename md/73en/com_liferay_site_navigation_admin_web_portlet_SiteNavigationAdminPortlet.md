@@ -2,6 +2,7 @@
 
 ## Documentation
 
+* [Configuring Site Navigation](https://learn.liferay.com/dxp/7.x/en/site-building/04-site-navigation/configuring-site-navigation.html)
 * [Navigation Management](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/managing-site-navigation)
 * Note: link covers version 7.2 - requires update
 

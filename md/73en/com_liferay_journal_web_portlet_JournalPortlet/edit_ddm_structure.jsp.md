@@ -2,12 +2,7 @@
 
 ## Documentation
 
-* [Authoring Content: Structured and Inline Content](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/authoring-content-structured-and-inline-content)
-* Note: link covers version 7.2 - requires update
-* [Managing Web Content](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/managing-web-content)
-* Note: link covers version 7.2 - requires update
-* [Designing Structured Content](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/designing-uniform-content)
-* Note: link covers version 7.2 - requires update
+* [Web Content Structures](https://learn.liferay.com/dxp/7.x/en/content-authoring-and-management/web-content/web_content_structures.html)
 
 ## Related Topics
 

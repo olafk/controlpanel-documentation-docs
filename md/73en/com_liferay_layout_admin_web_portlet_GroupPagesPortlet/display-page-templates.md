@@ -2,10 +2,7 @@
 
 ## Documentation
 
-* [Creating Display Page Templates](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/creating-display-pages)
-* Note: link covers version 7.2 - requires update
-* [Display Page Template Example](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/display-page-template-example)
-* Note: link covers version 7.2 - requires update
+* [Using Display Page Templates](https://learn.liferay.com/dxp/7.x/en/site-building/displaying-content/using_display_page_templates.html)
 
 ## Related Topics
 

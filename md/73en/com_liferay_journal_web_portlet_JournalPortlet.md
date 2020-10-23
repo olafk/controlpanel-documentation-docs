@@ -2,8 +2,7 @@
 
 ## Documentation
 
-* [Managing Web Content](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/managing-web-content)
-* Note: link covers version 7.2 - requires update
+* [Web Content](https://learn.liferay.com/dxp/7.x/en/content-authoring-and-management/web_content.html)
 
 ## Related Topics
 

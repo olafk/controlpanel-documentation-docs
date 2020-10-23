@@ -1,9 +1,8 @@
-# Content Sets
+# Collections
 
 ## Documentation
 
-* [Managing Content Sets](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/content-sets)
-* Note: link covers version 7.2 - requires update
+* [Collections and Collection Pages](https://learn.liferay.com/dxp/7.x/en/content-authoring-and-management/collections_and_collection_pages.html)
 
 ## Related Topics
 

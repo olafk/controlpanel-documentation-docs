@@ -2,7 +2,7 @@
 
 ## Documentation
 
-* Sorry, no documentation linked yet - please contribute
+* [Collections and Collection Pages](https://learn.liferay.com/dxp/7.x/en/content-authoring-and-management/collections_and_collection_pages.html)
 
 ## Related Topics
 
