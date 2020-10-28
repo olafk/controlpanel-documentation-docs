@@ -1,4 +1,4 @@
-# Headline
+# Navigation Menu Template
 
 ## Documentation
 

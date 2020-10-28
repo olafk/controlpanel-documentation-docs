@@ -4,7 +4,6 @@
 
 * [Managing Organizations](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/managing-organizations#organization-types)
 * Note: link covers version 7.2 - requires update
-* [System Settings](https://learn.liferay.com/dxp/7.x/en/system-administration/system-settings/system-settings.html)
 
 Important to know: The exported configuration file got a new name starting from DXP 7.2 SP1. If you've exported in DXP GA1 or FP1 (or CE GA1) the configuration and are wondering why your changes don't show up, you might need to change the exported file's name when running on a later patchlevel.
 
@@ -13,6 +12,7 @@ Important to know: The exported configuration file got a new name starting from 
 
 ## Related Topics
 
+* [System Settings](https://learn.liferay.com/dxp/7.x/en/system-administration/system_settings.html)
 
 ## Community Resources
 

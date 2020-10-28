@@ -4,7 +4,7 @@
 
 * [Configuring CORS](https://portal.liferay.dev/docs/7-2/deploy/-/knowledge_base/d/configuring-cors)
 * Note: link covers version 7.2 - requires update
-* [System Settings](https://learn.liferay.com/dxp/7.x/en/system-administration/system-settings/system-settings.html)
+* [System Settings](https://learn.liferay.com/dxp/7.x/en/system-administration/system_settings.html)
 
 ## Related Topics
 

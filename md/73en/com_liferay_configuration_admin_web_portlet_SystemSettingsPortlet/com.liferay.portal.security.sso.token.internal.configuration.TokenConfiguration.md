@@ -1,8 +1,8 @@
-# Headline
+# Token Based SSO
 
 ## Documentation
 
-* [System Settings](https://learn.liferay.com/dxp/7.x/en/system-administration/system-settings/system-settings.html)
+* [System Settings](https://learn.liferay.com/dxp/7.x/en/system-administration/system_settings.html)
 
 ## Related Topics
 

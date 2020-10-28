@@ -4,10 +4,9 @@
 
 WAB extender is processing plugins deployed through WAR files into OSGi bundles (WAB=Web Application Bundle)
 
-* [System Settings](https://learn.liferay.com/dxp/7.x/en/system-administration/system-settings/system-settings.html)
-
 ## Related Topics
 
+* [System Settings](https://learn.liferay.com/dxp/7.x/en/system-administration/system_settings.html)
 
 ## Community Resources
 

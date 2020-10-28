@@ -4,10 +4,10 @@
 
 * [Blacklisting OSGi Bundles and Components](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/blacklisting-osgi-bundles-and-components)
 * Note: link covers version 7.2 - requires update
-* [System Settings](https://learn.liferay.com/dxp/7.x/en/system-administration/system-settings/system-settings.html)
 
 ## Related Topics
 
+* [System Settings](https://learn.liferay.com/dxp/7.x/en/system-administration/system_settings.html)
 
 ## Community Resources
 
