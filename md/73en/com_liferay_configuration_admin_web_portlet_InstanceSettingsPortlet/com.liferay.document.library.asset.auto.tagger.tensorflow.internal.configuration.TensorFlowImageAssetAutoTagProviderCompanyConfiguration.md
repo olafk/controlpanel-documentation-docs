@@ -2,7 +2,7 @@
 
 ## Documentation
 
-* Sorry, no documentation linked yet - please contribute
+* [System- and Instance Settings: Understanding Configuration Scopes](https://learn.liferay.com/dxp/7.x/en/system-administration/system-settings/understanding-configuration-scope.html#system-settings-and-instance-settings)
 
 ## Related Topics
 

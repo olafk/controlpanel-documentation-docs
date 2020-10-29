@@ -5,9 +5,9 @@
 * [More Platform Instance Settings](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/more-platform-section-instance-settings)
 * Note: link covers version 7.2 - requires update
 
-
 ## Related Topics
 
+* [System- and Instance Settings: Understanding Configuration Scopes](https://learn.liferay.com/dxp/7.x/en/system-administration/system-settings/understanding-configuration-scope.html#system-settings-and-instance-settings)
 
 ## Community Resources
 

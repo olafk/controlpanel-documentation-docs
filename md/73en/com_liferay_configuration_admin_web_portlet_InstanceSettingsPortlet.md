@@ -2,6 +2,7 @@
 
 ## Documentation
 
+* [System- and Instance Settings: Understanding Configuration Scopes](https://learn.liferay.com/dxp/7.x/en/system-administration/system-settings/understanding-configuration-scope.html#system-settings-and-instance-settings)
 * [Setting up a Virtual Instance](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/setting-up-a-virtual-instance)
 * Note: link covers version 7.2 - requires update
 

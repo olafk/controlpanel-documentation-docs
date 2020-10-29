@@ -8,6 +8,7 @@
 ## Related Topics
 
 * [What's new in 7.2: Autotagging](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/whats-new-in-72#auto-tagging)
+* [System- and Instance Settings: Understanding Configuration Scopes](https://learn.liferay.com/dxp/7.x/en/system-administration/system-settings/understanding-configuration-scope.html#system-settings-and-instance-settings)
 
 ## Community Resources
 
