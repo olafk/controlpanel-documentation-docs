@@ -10,6 +10,7 @@
 
 ## Community Resources
 
+* [Video: Liferay Learning - How to Add Tags and Categories in Liferay DXP](https://www.youtube.com/watch?v=fBRbQ2IRpo4) on 7.2
 
 ### Contribute
 

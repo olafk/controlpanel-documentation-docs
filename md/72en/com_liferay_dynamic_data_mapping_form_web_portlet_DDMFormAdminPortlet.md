@@ -11,6 +11,7 @@
 ## Community Resources
 
 * [An introduction to Liferay Forms customization](https://liferay.dev/blogs/-/blogs/an-introduction-to-liferay-forms-customization)
+* [Video: Liferay Learning - How to create a form in Liferay DXP](https://www.youtube.com/watch?v=NLGEN3a1IQo)
 
 ### Contribute
 

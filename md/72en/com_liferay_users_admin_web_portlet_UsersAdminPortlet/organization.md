@@ -10,6 +10,7 @@
 
 ## Community Resources
 
+* [Video: Liferay Learning - How to create and populate Organizations in Liferay DXP](https://www.youtube.com/watch?v=gLeJObpcOFg)
 
 ### Contribute
 

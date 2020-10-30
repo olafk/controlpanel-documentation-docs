@@ -12,6 +12,7 @@
 
 ## Community Resources
 
+* [Video: Liferay Learn - How to create a new role in Liferay DXP](https://www.youtube.com/watch?v=61ocl3xWL38) on 7.2
 
 ### Contribute
 

@@ -9,9 +9,9 @@
 * [Managing Users](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/managing-users)
 * [LDAP](https://help.liferay.com/hc/en-us/articles/360029031771-LDAP)
 
-
 ## Community Resources
 
+* [Video: Liferay Learning - How to create and populate Organizations in Liferay DXP](https://www.youtube.com/watch?v=gLeJObpcOFg)
 
 ### Contribute
 

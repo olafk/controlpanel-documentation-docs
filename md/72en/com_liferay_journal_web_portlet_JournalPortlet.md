@@ -11,7 +11,7 @@
 
 ## Community Resources
 
-
+* [Video: Liferay Learn - How to Create a Web Content Article](https://www.youtube.com/watch?v=lD-hzC0O3p4)
 
 ### Contribute
 
