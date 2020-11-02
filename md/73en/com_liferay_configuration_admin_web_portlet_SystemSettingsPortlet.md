@@ -6,9 +6,9 @@
 
 ## Related Topics
 
+* [Classic configuration file options: portal.properties](https://docs.liferay.com/portal/7.3-latest/propertiesdoc/portal.properties.html)
 
 ## Community Resources
-
 
 
 ### Contribute

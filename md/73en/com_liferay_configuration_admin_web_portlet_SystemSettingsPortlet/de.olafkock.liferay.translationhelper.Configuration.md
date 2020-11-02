@@ -1,8 +1,13 @@
 # Translation Helper
 
+## Documentation
+
+This is a custom plugin, thus there's no official documentation
+
 ## Related Topics
 
 * [System Settings](https://learn.liferay.com/dxp/7.x/en/system-administration/system_settings.html)
+* [Classic configuration file options: portal.properties](https://docs.liferay.com/portal/7.3-latest/propertiesdoc/portal.properties.html)
 
 ## Community Resources
 
@@ -11,10 +16,6 @@
 
 This is a plugin that simply visualizes translated values on a page with their original keys. Purpose: If you find an issue with the translation, it might be easier to locate the original language key rather than the translated message.
 It's meant for Development Systems and take several shortcuts that shouldn't be deployed in production systems. Besides, it's ugly, but functional ;)
-
-## Documentation
-
-This is a custom plugin, thus there's no official documentation
 
 ### Contribute
 

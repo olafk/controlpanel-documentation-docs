@@ -9,6 +9,7 @@
 * [Viewing File Previews](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/viewing-file-previews)
 * Note: link covers version 7.2 - requires update
 * [System Settings](https://learn.liferay.com/dxp/7.x/en/system-administration/system-settings/system-settings.html)
+* [Classic configuration file options: portal.properties](https://docs.liferay.com/portal/7.3-latest/propertiesdoc/portal.properties.html)
 
 ## Community Resources
 

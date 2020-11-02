@@ -8,6 +8,7 @@
 ## Related Topics
 
 * [System- and Instance Settings: Understanding Configuration Scopes](https://learn.liferay.com/dxp/7.x/en/system-administration/system-settings/understanding-configuration-scope.html#system-settings-and-instance-settings)
+* [Classic configuration file options: portal.properties](https://docs.liferay.com/portal/7.3-latest/propertiesdoc/portal.properties.html)
 
 ## Community Resources
 

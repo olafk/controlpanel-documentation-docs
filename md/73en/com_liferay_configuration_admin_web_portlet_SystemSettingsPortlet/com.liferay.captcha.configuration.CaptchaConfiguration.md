@@ -6,6 +6,7 @@
 
 ## Related Topics
 
+* [Classic configuration file options: portal.properties](https://docs.liferay.com/portal/7.3-latest/propertiesdoc/portal.properties.html)
 * [Enabling Captcha on Form Submission](https://portal.liferay.dev/docs/7-1/user/-/knowledge_base/u/enabling-captcha-on-form-submissions)
 
 ## Community Resources

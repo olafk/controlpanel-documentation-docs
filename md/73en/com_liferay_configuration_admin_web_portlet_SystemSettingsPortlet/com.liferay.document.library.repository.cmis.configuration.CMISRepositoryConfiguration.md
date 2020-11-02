@@ -8,6 +8,7 @@
 ## Related Topics
 
 * [System Settings](https://learn.liferay.com/dxp/7.x/en/system-administration/system_settings.html)
+* [Classic configuration file options: portal.properties](https://docs.liferay.com/portal/7.3-latest/propertiesdoc/portal.properties.html)
 * [Using the DB Store](https://portal.liferay.dev/docs/7-2/deploy/-/knowledge_base/d/using-the-dbstore)
 * Note: link covers version 7.2 - requires update
 

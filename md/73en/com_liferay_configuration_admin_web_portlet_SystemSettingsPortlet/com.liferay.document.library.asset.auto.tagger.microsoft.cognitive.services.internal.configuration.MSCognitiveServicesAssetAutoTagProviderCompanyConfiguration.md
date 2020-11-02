@@ -8,6 +8,7 @@
 
 ## Related Topics
 
+* [Classic configuration file options: portal.properties](https://docs.liferay.com/portal/7.3-latest/propertiesdoc/portal.properties.html)
 * [What's new in 7.2: Autotagging](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/whats-new-in-72#auto-tagging)
 
 ## Community Resources

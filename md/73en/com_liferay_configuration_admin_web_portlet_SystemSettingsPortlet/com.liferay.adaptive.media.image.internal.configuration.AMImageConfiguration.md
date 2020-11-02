@@ -8,6 +8,7 @@
 
 ## Related Topics
 
+* [Classic configuration file options: portal.properties](https://docs.liferay.com/portal/7.3-latest/propertiesdoc/portal.properties.html)
 * [Adapting your Media across multiple devices](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/adapting-your-media-across-multiple-devices)
 * Note: link covers version 7.2 - requires update
 
