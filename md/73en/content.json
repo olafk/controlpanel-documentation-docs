@@ -4060,6 +4060,12 @@
 				"mediaType": null,
 				"mediaURL": null,
 				"secondary": "scheduled"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.3\/com_liferay_staging_processes_web_portlet_StagingProcessesPortlet\/publish_templates_view.jsp.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "scheduled"
 			}
 		]
 	},
