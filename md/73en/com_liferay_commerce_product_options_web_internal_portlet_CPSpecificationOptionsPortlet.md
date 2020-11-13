@@ -6,6 +6,8 @@
 
 ## Related Topics
 
+* [Commerce 2.x documentation](https://learn.liferay.com/commerce/2.x/en/index.html)
+
 ## Community Resources
 
 ### Contribute
