@@ -2,7 +2,7 @@
 
 ## Documentation
 
-* Sorry, no documentation linked yet - please contribute
+* [Creating a Style Book](https://learn.liferay.com/dxp/7.x/en/site-building/site-appearance/creating-a-style-book.html)
 
 ## Related Topics
 
@@ -11,6 +11,7 @@
 ## Community Resources
 
 * [Marcos Castro at /dev/24: Dynamic Styling in DXP](https://liferay.dev/24#Dynamic%20Styling%20in%20DXP) - with [Video](https://youtu.be/Mu0LcyOPadQ?t=33500)
+* [Video: Liferay Learning: Seamless Content Creation with Style Books](https://youtu.be/ZbD8VP9Mbq0) in Liferay DXP 7.3
 
 ### Contribute
 
