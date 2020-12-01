@@ -2,7 +2,7 @@
 
 ## Documentation
 
-* Sorry, no documentation linked yet - please contribute
+* [Developing Low Code Applications](https://learn.liferay.com/dxp/7.x/en/developing-applications/developing_low_code_applications.html)
 
 ## Related Topics
 

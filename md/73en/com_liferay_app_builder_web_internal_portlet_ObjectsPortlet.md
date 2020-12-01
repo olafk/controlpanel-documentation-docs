@@ -1,8 +1,9 @@
-# test
+# Objects
 
 ## Documentation
 
-* Sorry, no documentation linked yet - please contribute
+* [Developing Low Code Applications](https://learn.liferay.com/dxp/7.x/en/developing-applications/developing_low_code_applications.html)
+* [Creating a Custom Object](https://learn.liferay.com/dxp/7.x/en/developing-applications/developing-low-code-applications/creating-a-standard-application.html#creating-a-custom-object)
 
 ## Related Topics
 
