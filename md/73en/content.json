@@ -3612,6 +3612,18 @@
 				"mediaType": null,
 				"mediaURL": null,
 				"secondary": "-"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.3\/com_liferay_change_tracking_web_portlet_ChangeListsPortlet/change_lists_view_history.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "change_lists_view_history"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.3\/com_liferay_change_tracking_web_portlet_ChangeListsPortlet/change_lists_view_scheduled.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "change_lists_view_scheduled"
 			}
 		]
 	},
