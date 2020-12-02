@@ -2,7 +2,7 @@
 
 ## Documentation
 
-* Sorry, no documentation linked yet - please contribute
+* [Publications](https://learn.liferay.com/dxp/7.x/en/site-building/publishing-tools/publications.html)
 
 ## Related Topics
 

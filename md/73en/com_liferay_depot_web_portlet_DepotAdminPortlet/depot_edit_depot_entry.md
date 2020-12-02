@@ -1,8 +1,8 @@
-# tet
+# Asset Libraries
 
 ## Documentation
 
-* Sorry, no documentation linked yet - please contribute
+* [Asset Libraries](https://learn.liferay.com/dxp/7.x/en/content-authoring-and-management/asset_libraries.html)
 
 ## Related Topics
 
