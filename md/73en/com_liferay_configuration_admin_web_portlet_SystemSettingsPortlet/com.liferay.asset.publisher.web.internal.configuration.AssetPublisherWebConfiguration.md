@@ -4,7 +4,7 @@
 
 * [Assets](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/assets)
 * Note: link covers version 7.2 - requires update
-* [System Settings](https://learn.liferay.com/dxp/7.x/en/system-administration/system_settings.html)
+* [System Settings](https://learn.liferay.com/dxp/7.x/en/system-administration/configuring-liferay/system-settings.html)
 
 ## Related Topics
 

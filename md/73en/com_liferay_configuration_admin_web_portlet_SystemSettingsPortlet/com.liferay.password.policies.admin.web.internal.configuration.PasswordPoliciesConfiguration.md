@@ -4,7 +4,7 @@
 
 These settings configure options for the actual Password Policy configuration
 
-* [System Settings](https://learn.liferay.com/dxp/7.x/en/system-administration/system_settings.html)
+* [System Settings](https://learn.liferay.com/dxp/7.x/en/system-administration/configuring-liferay/system-settings.html)
 
 ## Related Topics
 

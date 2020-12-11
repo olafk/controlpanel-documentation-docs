@@ -2,7 +2,7 @@
 
 ## Documentation
 
-* [System Settings](https://learn.liferay.com/dxp/7.x/en/system-administration/system_settings.html)
+* [System Settings](https://learn.liferay.com/dxp/7.x/en/system-administration/configuring-liferay/system-settings.html)
 * [DevOps in User Management](https://learn.liferay.com/dxp/7.x/en/users-and-permissions/devops.html)
 
 ## Related Topics
