@@ -9,7 +9,6 @@
 
 * [DevOps in User Management](https://learn.liferay.com/dxp/7.x/en/users-and-permissions/devops.html)
 
-
 ## Community Resources
 
 
