@@ -2,11 +2,11 @@
 
 ## Documentation
 
-* [Using the Knowledge Base](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/using-the-knowledge-base)
-* Note: link covers version 7.2 - requires update
+* [Knowledge Base](https://learn.liferay.com/dxp/7.x/en/collaboration-and-social/knowledge_base.html)
 
 ## Related Topics
 
+* [Using the Knowledge Base - 7.2 docs](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/using-the-knowledge-base)
 
 ## Community Resources
 

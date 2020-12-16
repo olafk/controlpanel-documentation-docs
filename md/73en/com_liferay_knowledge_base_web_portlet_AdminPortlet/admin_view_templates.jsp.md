@@ -2,13 +2,12 @@
 
 ## Documentation
 
-* [Knowledge Base Templates](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/knowledge-base-templates)
-* Note: link covers version 7.2 - requires update
+* [Knowledge Base](https://learn.liferay.com/dxp/7.x/en/collaboration-and-social/knowledge_base.html)
 
 ## Related Topics
 
-* [Control Panel → Configuration → System Settings → Knowledge Base](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/knowledge-base-system-settings)
-* Note: link covers version 7.2 - requires update
+* [Using the Knowledge Base - 7.2 docs](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/using-the-knowledge-base)
+* [Control Panel → Configuration → System Settings → Knowledge Base 7.2 docs](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/knowledge-base-system-settings)
 
 ## Community Resources
 
