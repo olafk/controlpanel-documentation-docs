@@ -2,10 +2,11 @@
 
 ## Documentation
 
-* [System Settings](https://learn.liferay.com/dxp/7.x/en/system-administration/configuring-liferay/system-settings.html)
+* [Configuring SSO](https://learn.liferay.com/dxp/7.x/en/installation-and-upgrades/securing-liferay/configuring_sso.html)
 
 ## Related Topics
 
+* [System Settings](https://learn.liferay.com/dxp/7.x/en/system-administration/configuring-liferay/system-settings.html)
 * [Classic configuration file options: portal.properties](https://docs.liferay.com/portal/7.3-latest/propertiesdoc/portal.properties.html)
 
 ## Community Resources

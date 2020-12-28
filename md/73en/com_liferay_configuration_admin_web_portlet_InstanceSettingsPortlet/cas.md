@@ -2,8 +2,7 @@
 
 ## Documentation
 
-* [CAS (Central Authentication Service) Single Sign On Authentication](https://portal.liferay.dev/docs/7-2/deploy/-/knowledge_base/d/cas-central-authentication-service-single-sign-on-authentication)
-* Note: link covers version 7.2 - requires update
+* [Authenticating with CAS (Central Authentication Service)](https://learn.liferay.com/dxp/7.x/en/installation-and-upgrades/securing-liferay/configuring-sso/authenticating-with-cas.html)
 
 ## Related Topics
 

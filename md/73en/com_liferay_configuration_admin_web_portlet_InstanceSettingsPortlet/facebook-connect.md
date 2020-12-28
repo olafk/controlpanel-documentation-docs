@@ -2,8 +2,7 @@
 
 ## Documentation
 
-* [Facebook Connect Single Sign On Authentication](https://portal.liferay.dev/docs/7-0/deploy/-/knowledge_base/d/opensso-single-sign-on-authentication) (7.0)
-* Note: link covers version 7.0 - requires update
+* [Configuring SSO](https://learn.liferay.com/dxp/7.x/en/installation-and-upgrades/securing-liferay/configuring_sso.html)
 
 ## Related Topics
 

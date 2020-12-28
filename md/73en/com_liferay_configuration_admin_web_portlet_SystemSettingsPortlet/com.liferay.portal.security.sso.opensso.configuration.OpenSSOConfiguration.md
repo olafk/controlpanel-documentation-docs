@@ -2,8 +2,7 @@
 
 ## Documentation
 
-* [OpenAM Single Sign On Authentication](https://portal.liferay.dev/docs/7-2/deploy/-/knowledge_base/d/opensso-single-sign-on-authentication)
-* Note: link covers version 7.2 - requires update
+* [Configuring SSO](https://learn.liferay.com/dxp/7.x/en/installation-and-upgrades/securing-liferay/configuring_sso.html)
 
 ## Related Topics
 
