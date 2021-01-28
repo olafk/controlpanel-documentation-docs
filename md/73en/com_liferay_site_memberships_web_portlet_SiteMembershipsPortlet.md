@@ -2,15 +2,13 @@
 
 ## Documentation
 
-* [Managing Members in your Site](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/managing-members-in-your-site)
-* Note: link covers version 7.2 - requires update
+* [Site Membership](https://learn.liferay.com/dxp/7.x/en/site-building/building-sites/site_membership.html)
+* [Site Users](https://learn.liferay.com/dxp/7.x/en/site-building/site-settings/site_users.html)
 
 ## Related Topics
 
-* [User Groups and Site Membership](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/user-groups-and-site-membership)
-* Note: link covers version 7.2 - requires update
-* [Understanding Site Management](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/understanding-site-management)
-* Note: link covers version 7.2 - requires update
+* [Roles and Permissions](https://learn.liferay.com/dxp/7.x/en/users-and-permissions/roles_and_permissions.html)
+* [User Groups](https://learn.liferay.com/dxp/7.x/en/users-and-permissions/user_groups.html)
 
 ## Community Resources
 

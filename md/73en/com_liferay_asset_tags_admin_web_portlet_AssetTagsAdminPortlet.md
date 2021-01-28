@@ -2,8 +2,7 @@
 
 ## Documentation
 
-* [Organizing Content with Tags and Categories](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/organizing-content-with-tags-and-categories)
-* Note: link covers version 7.2 - requires update
+* [Tags and Categories](https://learn.liferay.com/dxp/7.x/en/content-authoring-and-management/tags_and_categories.html)
 
 ## Related Topics
 

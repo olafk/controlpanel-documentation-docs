@@ -2,8 +2,7 @@
 
 ## Documentation
 
-* [Configuring Site Settings](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/configuring-site-settings)
-* Note: link covers version 7.2 - requires update
+* [Site Settings](https://learn.liferay.com/dxp/7.x/en/site-building/site_settings.html)
 
 ## Related Topics
 

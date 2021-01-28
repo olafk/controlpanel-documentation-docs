@@ -1,9 +1,8 @@
-# Portal Instances
+# Virtual Instances
 
 ## Documentation
 
-* [Setting up a virtual instance](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/setting-up-a-virtual-instance)
-* Note: link covers version 7.2 - requires update
+* [Virtual Instances](https://learn.liferay.com/dxp/7.x/en/system-administration/configuring-liferay/virtual_instances.html)
 
 ## Related Topics
 

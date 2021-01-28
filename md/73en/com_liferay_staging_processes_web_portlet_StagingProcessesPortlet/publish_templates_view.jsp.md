@@ -2,13 +2,11 @@
 
 ## Documentation
 
-* [Content Publication Management](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/content-publication-management)
-* Note: link covers version 7.2 - requires update
+* [Staging](https://learn.liferay.com/dxp/7.x/en/site-building/publishing-tools/staging.html)
 
 ## Related Topics
 
-* [Workflow](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/workflow)
-* Note: link covers version 7.2 - requires update
+* [Using Workflows](https://learn.liferay.com/dxp/7.x/en/process-automation/workflow/using_workflows.html)
 
 ## Community Resources
 

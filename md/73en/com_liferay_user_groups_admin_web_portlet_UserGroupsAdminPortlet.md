@@ -7,6 +7,8 @@
 ## Related Topics
 
 * [DevOps in User Management](https://learn.liferay.com/dxp/7.x/en/users-and-permissions/devops.html)
+* [Site Membership](https://learn.liferay.com/dxp/7.x/en/site-building/building-sites/site_membership.html)
+* [Roles and Permissions](https://learn.liferay.com/dxp/7.x/en/users-and-permissions/roles_and_permissions.html)
 
 ## Community Resources
 

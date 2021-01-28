@@ -2,8 +2,7 @@
 
 ## Documentation
 
-* [Restoring Deleted Assets](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/restoring-deleted-assets)
-* Note: link covers version 7.2 - requires update
+* [Recycle Bin](https://learn.liferay.com/dxp/7.x/en/content-authoring-and-management/recycle_bin.html)
 
 ## Related Topics
 

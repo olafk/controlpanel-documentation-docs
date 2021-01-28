@@ -2,8 +2,7 @@
 
 ## Documentation
 
-* [Managing Apps](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/managing-apps)
-* Note: link covers version 7.2 - requires update
+* [Installing and Managing Apps](https://learn.liferay.com/dxp/7.x/en/system-administration/installing-and-managing-apps/getting-started/installing-and-managing-apps.html)
 
 ## Related Topics
 

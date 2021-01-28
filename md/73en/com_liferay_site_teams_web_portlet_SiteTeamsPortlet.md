@@ -2,17 +2,11 @@
 
 ## Documentation
 
-* [Creating Teams to Empower Site Members](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/creating-teams-for-advanced-site-membership-management)
-* Note: link covers version 7.2 - requires update
+* [Site Users](https://learn.liferay.com/dxp/7.x/en/site-building/site-settings/site_users.html)
 
 ## Related Topics
 
-* [Managing Members in your Site](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/managing-members-in-your-site)
-* Note: link covers version 7.2 - requires update
-* [User Groups and Site Membership](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/user-groups-and-site-membership)
-* Note: link covers version 7.2 - requires update
-* [Understanding Site Management](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/understanding-site-management)
-* Note: link covers version 7.2 - requires update
+* [Site Membership](https://learn.liferay.com/dxp/7.x/en/site-building/building-sites/site_membership.html)
 
 ## Community Resources
 
