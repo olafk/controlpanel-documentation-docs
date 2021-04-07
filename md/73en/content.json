@@ -4078,6 +4078,12 @@
 				"mediaType": null,
 				"mediaURL": null,
 				"secondary": "publish_templates_view.jsp"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.3\/com_liferay_staging_processes_web_portlet_StagingProcessesPortlet\/view.jsp.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "view.jsp"
 			}
 		]
 	},
