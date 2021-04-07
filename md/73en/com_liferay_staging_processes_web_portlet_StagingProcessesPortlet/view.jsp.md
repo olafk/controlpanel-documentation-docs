@@ -1,4 +1,4 @@
-# Staging Processes
+# Staging Configuration
 
 ## Documentation
 
