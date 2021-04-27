@@ -6,6 +6,8 @@
 
 ## Related Topics
 
+* [Creating a Page Template](https://learn.liferay.com/dxp/7.x/en/site-building/creating-pages/adding-pages/creating-a-page-template.html)
+* [Using Display Page Templates](https://learn.liferay.com/dxp/7.x/en/site-building/displaying-content/using_display_page_templates.html)
 
 ## Community Resources
 

@@ -6,6 +6,9 @@
 
 ## Related Topics
 
+* [Using Display Page Templates](https://learn.liferay.com/dxp/7.x/en/site-building/displaying-content/using_display_page_templates.html)
+* [Master Page Templates](https://learn.liferay.com/dxp/7.x/en/site-building/creating-pages/defining-headers-and-footers/master-page-templates.html)
+
 ## Community Resources
 
 ### Contribute

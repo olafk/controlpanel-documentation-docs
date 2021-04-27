@@ -6,6 +6,9 @@
 
 ## Related Topics
 
+* [Creating a Page Template](https://learn.liferay.com/dxp/7.x/en/site-building/creating-pages/adding-pages/creating-a-page-template.html)
+* [Master Page Templates](https://learn.liferay.com/dxp/7.x/en/site-building/creating-pages/defining-headers-and-footers/master-page-templates.html)
+
 ## Community Resources
 
 ### Contribute
