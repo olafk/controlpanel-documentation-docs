@@ -6,6 +6,8 @@
 
 ## Related Topics
 
+* [Translating Web Content](https://learn.liferay.com/dxp/latest/en/content-authoring-and-management/web-content/translating_web_content.html)
+
 ## Community Resources
 
 * [Video: Liferay Learn - How to Create a Web Content Article](https://www.youtube.com/watch?v=lD-hzC0O3p4) on 7.2

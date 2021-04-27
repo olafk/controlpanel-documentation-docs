@@ -1,5 +1,16 @@
 [
 	{
+		"portletId": "com_liferay_change_tracking_web_portlet_PublicationsConfigurationPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.3\/com_liferay_change_tracking_web_portlet_PublicationsConfigurationPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			}
+		]
+	},
+	{
 		"portletId": "com_liferay_content_dashboard_web_portlet_ContentDashboardAdminPortlet",
 		"urlConfig": [
 			{
@@ -1224,8 +1235,8 @@
 		"urlConfig": [
 			{
 				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.3\/com_liferay_users_admin_web_portlet_UsersAdminPortlet.html",
-				"mediaType": "video",
-				"mediaURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.3\/media\/users-and-organizations-users.mp4",
+				"mediaType": "audioguide",
+				"mediaURL": "https:\/\/www.olafkock.de\/liferay\/audioguide\/usermanagement-controlpanel-audioguide.json",
 				"secondary": "-"
 			},
 			{
@@ -1420,6 +1431,12 @@
 				"mediaType": null,
 				"mediaURL": null,
 				"secondary": "-"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.3\/com_liferay_journal_web_portlet_JournalPortlet\/journal_translate.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "journal_translate"
 			},
 			{
 				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.3\/com_liferay_journal_web_portlet_JournalPortlet\/view_ddm_structures.jsp.html",
