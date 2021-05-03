@@ -10,6 +10,8 @@
 
 ## Community Resources
 
+* [Exploring documentation](https://liferay.dev/blogs/-/blogs/exploring-documentation)
+
 ## Additional Information
 
 * The EMBEDDED mode for Elasticsearch is unsupported. Production servers must run with a remote Elasticsearch instance, as the CPU and memory requirements of Elasticsearch clash with Liferay's requirements.

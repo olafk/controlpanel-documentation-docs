@@ -11,6 +11,7 @@
 ## Community Resources
 
 * [jQuery is disabled, long live jQuery](https://liferay.dev/blogs/-/blogs/jquery-is-disabled-long-live-jquery)
+* [Exploring documentation](https://liferay.dev/blogs/-/blogs/exploring-documentation)
 
 ### Contribute
 

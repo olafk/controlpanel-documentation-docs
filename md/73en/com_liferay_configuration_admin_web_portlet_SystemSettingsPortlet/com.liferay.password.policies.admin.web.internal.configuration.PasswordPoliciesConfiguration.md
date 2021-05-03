@@ -12,6 +12,7 @@ These settings configure options for the actual Password Policy configuration
 
 ## Community Resources
 
+* [Exploring documentation](https://liferay.dev/blogs/-/blogs/exploring-documentation)
 
 ### Contribute
 

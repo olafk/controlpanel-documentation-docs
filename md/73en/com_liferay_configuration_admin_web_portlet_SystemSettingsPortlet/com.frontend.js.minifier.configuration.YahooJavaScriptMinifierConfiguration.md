@@ -12,6 +12,7 @@
 
 ## Community Resources
 
+* [Exploring documentation](https://liferay.dev/blogs/-/blogs/exploring-documentation)
 
 ### Contribute
 

@@ -11,6 +11,7 @@ WAB extender is processing plugins deployed through WAR files into OSGi bundles 
 
 ## Community Resources
 
+* [Exploring documentation](https://liferay.dev/blogs/-/blogs/exploring-documentation)
 
 ### Contribute
 

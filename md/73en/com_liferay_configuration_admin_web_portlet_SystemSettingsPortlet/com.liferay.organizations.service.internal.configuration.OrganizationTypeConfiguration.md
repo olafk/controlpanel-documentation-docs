@@ -17,6 +17,7 @@ Important to know: The exported configuration file got a new name starting from 
 
 ## Community Resources
 
+* [Exploring documentation](https://liferay.dev/blogs/-/blogs/exploring-documentation)
 
 ### Contribute
 

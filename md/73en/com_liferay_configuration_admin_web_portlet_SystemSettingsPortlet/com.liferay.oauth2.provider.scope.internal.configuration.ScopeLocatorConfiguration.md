@@ -17,6 +17,7 @@
 ## Community Resources
 
 * [Customizing the OAuth 2 provider GUI for end-users](https://liferay.dev/blogs/-/blogs/customizing-the-oauth-2-provider-gui-for-end-users)
+* [Exploring documentation](https://liferay.dev/blogs/-/blogs/exploring-documentation)
 
 ### Contribute
 

@@ -14,6 +14,7 @@
 ## Community Resources
 
 * [Piwik's "new" name: Matomo](https://matomo.org/)
+* [Exploring documentation](https://liferay.dev/blogs/-/blogs/exploring-documentation)
 
 ### Contribute
 

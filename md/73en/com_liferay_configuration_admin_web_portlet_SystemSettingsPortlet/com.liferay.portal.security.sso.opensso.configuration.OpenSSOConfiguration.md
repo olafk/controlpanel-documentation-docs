@@ -12,6 +12,7 @@
 ## Community Resources
 
 * [Open Identity Platform](https://www.openidentityplatform.org/openam)
+* [Exploring documentation](https://liferay.dev/blogs/-/blogs/exploring-documentation)
 
 ### Contribute
 

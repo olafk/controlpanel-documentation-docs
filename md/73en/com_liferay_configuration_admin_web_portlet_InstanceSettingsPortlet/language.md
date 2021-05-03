@@ -13,6 +13,7 @@
 ## Community Resources
 
 * [Visualize Translation](https://github.com/olafk/translation-helper-web)
+* [Exploring documentation](https://liferay.dev/blogs/-/blogs/exploring-documentation)
 
 ### Contribute
 

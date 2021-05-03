@@ -13,6 +13,7 @@
 ## Community Resources
 
 * [Video: Liferay Learning - How to Connect Liferay to LDAP](https://www.youtube.com/watch?v=UTqZHwjQLIc) on 7.2
+* [Exploring documentation](https://liferay.dev/blogs/-/blogs/exploring-documentation)
 
 ### Contribute
 
