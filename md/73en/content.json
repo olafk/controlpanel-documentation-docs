@@ -1820,6 +1820,12 @@
 				"secondary": "-"
 			},
 			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.3\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.antivirus.clamd.scanner.internal.configuration.ClamdAntivirusScannerConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.antivirus.clamd.scanner.internal.configuration.ClamdAntivirusScannerConfiguration"
+			},
+			{
 				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.3\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/de.olafkock.liferay.translationhelper.Configuration.html",
 				"mediaType": null,
 				"mediaURL": null,
