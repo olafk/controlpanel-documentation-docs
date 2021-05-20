@@ -39,6 +39,35 @@
 		]
 	},
 	{
+		"portletId": "com_liferay_saml_web_internal_portlet_SamlAdminPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.3\/com_liferay_saml_web_internal_portlet_SamlAdminPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.3\/com_liferay_saml_web_internal_portlet_SamlAdminPortlet\/general.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "general"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.3\/com_liferay_saml_web_internal_portlet_SamlAdminPortlet\/service-provider.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "service-provider"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.3\/com_liferay_saml_web_internal_portlet_SamlAdminPortlet\/identity-provider-connections.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "identity-provider-connections"
+			}
+		]
+	},
+	{
 		"portletId": "com_liferay_dynamic_data_mapping_form_web_portlet_DDMFormAdminPortlet",
 		"urlConfig": [
 			{
