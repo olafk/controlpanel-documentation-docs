@@ -10,7 +10,7 @@
 
 ## Community Resources
 
-* Video: [Jan Verveij: Setup Okta with Liferay DXP](https://youtu.be/oSJprwUFLAI)
+* Video: [Jan Verweij: Setup Okta with Liferay DXP](https://youtu.be/oSJprwUFLAI)
 
 ### Contribute
 
