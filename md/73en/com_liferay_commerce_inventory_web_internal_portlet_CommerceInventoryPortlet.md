@@ -7,6 +7,7 @@
 ## Related Topics
 
 * [Commerce 2.x documentation](https://learn.liferay.com/commerce/2.x/en/index.html)
+* Wikipedia on [SKU](https://en.wikipedia.org/wiki/Stock_keeping_unit) 
 
 ## Community Resources
 

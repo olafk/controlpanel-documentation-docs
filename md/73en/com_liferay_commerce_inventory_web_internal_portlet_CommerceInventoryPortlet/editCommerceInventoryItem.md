@@ -6,6 +6,8 @@
 
 ## Related Topics
 
+* Wikipedia on [SKU](https://en.wikipedia.org/wiki/Stock_keeping_unit) 
+
 ## Community Resources
 
 ### Contribute
