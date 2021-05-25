@@ -1,4 +1,4 @@
-# Commerce / BOM
+# Commerce / BOM (Shop by Diagram)
 
 ## Documentation
 
