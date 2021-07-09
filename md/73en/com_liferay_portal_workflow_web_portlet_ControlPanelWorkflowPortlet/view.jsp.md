@@ -14,6 +14,7 @@
 ## Community Resources
 
 * [Video: Liferay Learning - How to build a simple workflow in Liferay DXP](https://www.youtube.com/watch?v=4fTxE8Gvg9w) on 7.2
+* [Blog: Context is everything](https://liferay.dev/blogs/-/blogs/context-is-everything)
 
 ### Contribute
 
