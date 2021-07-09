@@ -2,11 +2,12 @@
 
 ## Documentation
 
-* [Workflow](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/workflow)
-* Note: link covers version 7.2 - requires update
+* [Workflow Developer Guide](https://learn.liferay.com/dxp/latest/en/process-automation/workflow/developer_guide.html)
 
 ## Related Topics
 
+* [Workflow](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/workflow)
+* Note: link covers version 7.2 - requires update
 * Development: [The Workflow Framework](https://portal.liferay.dev/docs/7-2/frameworks/-/knowledge_base/f/the-workflow-framework)
 * Note: link covers version 7.2 - requires update
 
