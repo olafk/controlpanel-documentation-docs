@@ -1,14 +1,18 @@
-# Headline
+# Forms / Data Providers
 
 ## Documentation
 
-* Sorry, no documentation linked yet - please contribute
+* [Data Providers Overview](https://learn.liferay.com/dxp/latest/en/process-automation/forms/data-providers/data-providers-overview.html)
+Sorry, no documentation linked yet - please contribute
 
 ## Related Topics
 
+* [Forms](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/forms)
+* Note: link covers version 7.2 - requires update
 
 ## Community Resources
 
+* [An introduction to Liferay Forms customization](https://liferay.dev/blogs/-/blogs/an-introduction-to-liferay-forms-customization)
 
 ### Contribute
 
