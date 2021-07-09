@@ -3,7 +3,6 @@
 ## Documentation
 
 * [Data Providers Overview](https://learn.liferay.com/dxp/latest/en/process-automation/forms/data-providers/data-providers-overview.html)
-Sorry, no documentation linked yet - please contribute
 
 ## Related Topics
 
