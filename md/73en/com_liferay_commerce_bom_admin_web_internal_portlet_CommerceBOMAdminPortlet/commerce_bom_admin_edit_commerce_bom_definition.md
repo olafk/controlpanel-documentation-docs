@@ -10,4 +10,4 @@
 
 ### Contribute
 
-[Edit this file on github](https://github.com/olafk/controlpanel-documentation-docs/blob/master/md/73en/com_liferay_commerce_bom_admin_web_internal_portlet_CommerceBOMAdminPortlet/commerce_bom_admin_edit_commerce_bom_definition.md)
+[Edit this file on github](https://github.com/olafk/controlpanel-documentation-docs/blob/master/md/73en/com_liferay_commerce_bom_admin_web_internal_portlet_CommerceBOMAdminPortlet/editCommerceBOMDefinition.md)

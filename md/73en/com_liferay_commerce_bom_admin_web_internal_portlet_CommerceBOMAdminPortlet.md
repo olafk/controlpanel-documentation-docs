@@ -2,7 +2,7 @@
 
 ## Documentation
 
-* Sorry, no documentation linked yet - please contribute
+* [Managing BOMs](https://learn.liferay.com/commerce/latest/en/managing-a-catalog/creating-and-managing-products/products/managing-boms.html)
 
 ## Related Topics
 
