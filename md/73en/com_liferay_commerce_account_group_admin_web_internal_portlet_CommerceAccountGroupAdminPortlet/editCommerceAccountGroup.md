@@ -1,8 +1,8 @@
-# Edit test
+# Edit Account Group
 
 ## Documentation
 
-* Sorry, no documentation linked yet - please contribute
+* [Creating a new Account Group](https://learn.liferay.com/commerce/latest/en/users-and-accounts/account-management/creating-a-new-account-group.html)
 
 ## Related Topics
 

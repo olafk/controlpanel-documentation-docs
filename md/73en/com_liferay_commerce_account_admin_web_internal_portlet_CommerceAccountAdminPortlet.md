@@ -2,11 +2,9 @@
 
 ## Documentation
 
-* Sorry, no documentation linked yet - please contribute
+* [Account Management](https://learn.liferay.com/commerce/latest/en/users-and-accounts/account-management.html)
 
 ## Related Topics
-
-* [Commerce 2.x documentation](https://learn.liferay.com/commerce/2.x/en/index.html)
 
 ## Community Resources
 

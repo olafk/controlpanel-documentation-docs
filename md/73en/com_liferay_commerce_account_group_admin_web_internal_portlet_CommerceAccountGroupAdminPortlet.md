@@ -2,11 +2,11 @@
 
 ## Documentation
 
-* Sorry, no documentation linked yet - please contribute
+* [Creating a new Account Group](https://learn.liferay.com/commerce/latest/en/users-and-accounts/account-management/creating-a-new-account-group.html)
 
 ## Related Topics
 
-* [Commerce 2.x documentation](https://learn.liferay.com/commerce/2.x/en/index.html)
+* [Account Management](https://learn.liferay.com/commerce/latest/en/users-and-accounts/account-management.html)
 
 ## Community Resources
 
