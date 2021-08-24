@@ -9,6 +9,7 @@
 
 ## Community Resources
 
+* Note: Adding a new language to a site might require reindexing (Control Panel / Configuration / Search / Indexing Actions) for all related features - e.g. sorting in AssetPublisher - to work.
 
 ### Contribute
 
