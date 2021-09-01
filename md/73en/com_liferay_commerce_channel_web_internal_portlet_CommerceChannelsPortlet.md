@@ -2,11 +2,9 @@
 
 ## Documentation
 
-* Sorry, no documentation linked yet - please contribute
+* [Introduction to Channels](https://learn.liferay.com/commerce/latest/en/starting-a-store/channels/introduction-to-channels.html)
 
 ## Related Topics
-
-* [Commerce 2.x documentation](https://learn.liferay.com/commerce/2.x/en/index.html)
 
 ## Community Resources
 

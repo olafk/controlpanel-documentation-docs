@@ -2,7 +2,7 @@
 
 ## Documentation
 
-* Sorry, no documentation linked yet - please contribute
+* [Introduction to Channels](https://learn.liferay.com/commerce/latest/en/starting-a-store/channels/introduction-to-channels.html)
 
 ## Related Topics
 

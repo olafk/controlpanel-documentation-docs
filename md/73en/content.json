@@ -3823,6 +3823,12 @@
 				"mediaType": null,
 				"mediaURL": null,
 				"secondary": "editCommerceChannel"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.3\/com_liferay_commerce_channel_web_internal_portlet_CommerceChannelsPortlet\/commerce_channels_edit_commerce_channel.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "commerce_channels_edit_commerce_channel"
 			}
 		]
 	},
