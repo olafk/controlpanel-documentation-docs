@@ -2,10 +2,7 @@
 
 ## Documentation
 
-* [Troubleshooting Application Development Issues](https://portal.liferay.dev/docs/7-2/appdev/-/knowledge_base/a/troubleshooting-application-development-issues)
-* Note: link covers version 7.2 - requires update
-* [Using the Felix Gogo Shell](https://portal.liferay.dev/docs/7-2/customization/-/knowledge_base/c/using-the-felix-gogo-shell)
-* Note: link covers version 7.2 - requires update
+* [Using the Gogo Shell](https://learn.liferay.com/dxp/latest/en/liferay-internals/fundamentals/using_the_gogo_shell.html)
 
 ## Related Topics
 
