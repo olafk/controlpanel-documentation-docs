@@ -1,4 +1,4 @@
-# Headline
+# Page Templates
 
 ## Documentation
 

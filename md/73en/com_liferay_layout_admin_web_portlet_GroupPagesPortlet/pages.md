@@ -2,22 +2,13 @@
 
 ## Documentation
 
-* [Managing Site Navigation](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/managing-site-navigation)
-* Note: link covers version 7.2 - requires update
+* [Creating Pages](https://learn.liferay.com/dxp/latest/en/site-building/creating_pages.html)
+* [Using Widget Pages](https://learn.liferay.com/dxp/latest/en/site-building/creating-pages/using_widget_pages.html)
+* [Building and Managing Content Pages](https://learn.liferay.com/dxp/latest/en/site-building/creating-pages/building_and_managing_content_pages.html)
 
 ## Related Topics
 
-* [Adding Pages to Sites](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/creating-and-managing-pages)
-* Note: link covers version 7.2 - requires update
-* [Creating Pages](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/creating-pages)
-* Note: link covers version 7.2 - requires update
-* [Creating Widget Pages](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/creating-widget-pages)
-* Note: link covers version 7.2 - requires update
-* [Creating Content Pages](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/creating-content-pages)
-* Note: link covers version 7.2 - requires update
-
-## Related Topics
-
+* [Site Navigation](https://learn.liferay.com/dxp/latest/en/site-building/site_navigation.html)
 
 ## Community Resources
 
