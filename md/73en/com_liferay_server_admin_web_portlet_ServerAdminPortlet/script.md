@@ -2,8 +2,7 @@
 
 ## Documentation
 
-* [Server Administration](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/server-administration)
-* Note: link covers version 7.2 - requires update
+* [Server Administration](https://learn.liferay.com/dxp/latest/en/system-administration/using-the-server-administration-panel.html)
 * [Using Liferay's ScriptEngine](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/using-liferays-script-engine)
 * Note: link covers version 7.2 - requires update
 * [Script Examples](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/script-examples)

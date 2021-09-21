@@ -2,8 +2,7 @@
 
 ## Documentation
 
-* [Server Administration](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/server-administration)
-* Note: link covers version 7.2 - requires update
+* [Server Administration](https://learn.liferay.com/dxp/latest/en/system-administration/using-the-server-administration-panel.html)
 * [Portal Properties](https://portal.liferay.dev/docs/7-2/deploy/-/knowledge_base/d/portal-properties)
 * Note: link covers version 7.2 - requires update
 * [System Properties](https://portal.liferay.dev/docs/7-2/deploy/-/knowledge_base/d/system-properties)
