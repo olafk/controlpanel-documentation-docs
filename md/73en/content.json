@@ -1581,6 +1581,12 @@
 				"mediaType": null,
 				"mediaURL": null,
 				"secondary": "-"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.3\/com_liferay_segments_web_internal_portlet_SegmentsPortlet\/segments_edit_segments_entry.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "segments_edit_segments_entry"
 			}
 		]
 	},
