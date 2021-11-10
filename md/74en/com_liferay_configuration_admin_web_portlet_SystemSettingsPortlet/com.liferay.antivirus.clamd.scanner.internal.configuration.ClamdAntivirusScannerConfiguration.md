@@ -7,7 +7,7 @@
 
 ## Related Topics
 
-* [Classic configuration file options: dl.store.antivirus.enabled in portal.properties](https://docs.liferay.com/portal/7.3-latest/propertiesdoc/portal.properties.html#Document%20Library%20Service)
+* [Classic configuration file options: dl.store.antivirus.enabled in portal.properties](https://docs.liferay.com/portal/7.4-latest/propertiesdoc/portal.properties.html#Document%20Library%20Service)
 
 ## Community Resources
 

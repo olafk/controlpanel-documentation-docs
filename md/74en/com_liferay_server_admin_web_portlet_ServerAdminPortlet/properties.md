@@ -10,7 +10,7 @@
 
 ## Related Topics
 
-* [portal.properties](https://docs.liferay.com/portal/7.3-latest/propertiesdoc/portal.properties.html)
+* [portal.properties](https://docs.liferay.com/portal/7.4-latest/propertiesdoc/portal.properties.html)
 * [system.properties](https://docs.liferay.com/ce/portal/7.3-latest/propertiesdoc/system.properties.html)
 
 ## Community Resources

@@ -6,7 +6,7 @@
 
 ## Related Topics
 
-* [Classic configuration file options: portal.properties](https://docs.liferay.com/portal/7.3-latest/propertiesdoc/portal.properties.html)
+* [Classic configuration file options: portal.properties](https://docs.liferay.com/portal/7.4-latest/propertiesdoc/portal.properties.html)
 * [Sending Alerts and Announcements](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/sending-alerts-and-announcements)
 * Note: link covers version 7.2 - requires update
 

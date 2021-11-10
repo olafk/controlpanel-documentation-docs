@@ -9,7 +9,7 @@
 
 * [What's new in 7.2: Autotagging](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/whats-new-in-72#auto-tagging)
 * [System- and Instance Settings: Understanding Configuration Scopes](https://learn.liferay.com/dxp/7.x/en/system-administration/configuring-liferay/understanding-configuration-scope.html#system-settings-and-instance-settings)
-* [Classic configuration file options: portal.properties](https://docs.liferay.com/portal/7.3-latest/propertiesdoc/portal.properties.html)
+* [Classic configuration file options: portal.properties](https://docs.liferay.com/portal/7.4-latest/propertiesdoc/portal.properties.html)
 
 ## Community Resources
 

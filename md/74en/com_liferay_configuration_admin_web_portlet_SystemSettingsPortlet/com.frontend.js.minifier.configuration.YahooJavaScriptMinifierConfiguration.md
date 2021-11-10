@@ -6,7 +6,7 @@
 
 ## Related Topics
 
-* [Classic configuration file options: portal.properties](https://docs.liferay.com/portal/7.3-latest/propertiesdoc/portal.properties.html)
+* [Classic configuration file options: portal.properties](https://docs.liferay.com/portal/7.4-latest/propertiesdoc/portal.properties.html)
 * [Themes Introduction](https://portal.liferay.dev/docs/7-2/frameworks/-/knowledge_base/f/themes-introduction)
 * Note: link covers version 7.2 - requires update
 
