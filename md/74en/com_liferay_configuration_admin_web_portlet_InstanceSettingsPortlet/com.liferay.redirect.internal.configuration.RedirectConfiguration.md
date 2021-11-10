@@ -6,10 +6,11 @@
 
 ## Related Topics
 
-* [Classic configuration file options: portal.properties](https://docs.liferay.com/portal/7.3-latest/propertiesdoc/portal.properties.html)
+* [Classic configuration file options: portal.properties](https://docs.liferay.com/portal/7.4-latest/propertiesdoc/portal.properties.html)
 
 ## Community Resources
 
+* [Permanent Google love](https://liferay.dev/blogs/-/blogs/permanent-google-love/)
 * [Exploring documentation](https://liferay.dev/blogs/-/blogs/exploring-documentation)
 
 ### Contribute

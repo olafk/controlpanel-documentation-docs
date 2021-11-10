@@ -10,6 +10,7 @@
 
 ## Community Resources
 
+* [Permanent Google love](https://liferay.dev/blogs/-/blogs/permanent-google-love/)
 * [Exploring documentation](https://liferay.dev/blogs/-/blogs/exploring-documentation)
 
 ### Contribute
