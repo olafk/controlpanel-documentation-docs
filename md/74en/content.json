@@ -298,6 +298,18 @@
 				"secondary": "-"
 			},
 			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/digital-signature.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "digital-signature"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/click-to-chat.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "click-to-chat"
+			},
+			{
 				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/analytics.html",
 				"mediaType": null,
 				"mediaURL": null,
