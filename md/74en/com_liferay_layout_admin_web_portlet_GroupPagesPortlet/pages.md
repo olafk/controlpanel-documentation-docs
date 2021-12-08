@@ -12,7 +12,6 @@
 
 ## Community Resources
 
-* [Visualize Drag&Drop-zones in your page's layout](https://liferay.dev/blogs/-/blogs/dragging-and-dropping-widgets-on-the-page) (although it's [no longer needed](https://liferay.dev/blogs/-/blogs/drag-drop-indication-on-liferay-ce-7-3-1-ga2) since CE 7.3 GA2 and DXP 7.3) 
 
 ### Contribute
 
