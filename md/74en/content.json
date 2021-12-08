@@ -15,6 +15,12 @@
 				"secondary": "change_tracking_view_history"
 			},
 			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_change_tracking_web_portlet_PublicationsPortlet\/change_tracking_view_settings.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "change_tracking_view_settings"
+			},
+			{
 				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_change_tracking_web_portlet_PublicationsPortlet\/change_tracking_view_scheduled.html",
 				"mediaType": null,
 				"mediaURL": null,
