@@ -2,7 +2,7 @@
 
 ## Documentation
 
-* [Asset Libraries](https://learn.liferay.com/dxp/7.x/en/content-authoring-and-management/asset_libraries.html)
+* [Asset Libraries](https://learn.liferay.com/dxp/latest/en/content-authoring-and-management/asset-libraries.html)
 
 ## Related Topics
 

@@ -2,7 +2,7 @@
 
 ## Documentation
 
-* [Kaleo Forms](https://help.liferay.com/hc/en-us/articles/360028821952-Kaleo-Forms)
+* [Kaleo Forms](https://learn.liferay.com/dxp/latest/en/process-automation/forms/kaleo-forms/kaleo-forms.html)
 
 ## Related Topics
 

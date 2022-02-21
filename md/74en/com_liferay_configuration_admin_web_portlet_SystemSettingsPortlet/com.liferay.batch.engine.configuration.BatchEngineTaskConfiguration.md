@@ -10,6 +10,7 @@
 
 ## Community Resources
 
+* [Dave Nebinger: Effective Liferay Batch](https://liferay.dev/web/guest/blogs/-/blogs/effective-liferay-batch)
 * [Exploring documentation](https://liferay.dev/blogs/-/blogs/exploring-documentation)
 
 ### Contribute

@@ -7,7 +7,7 @@
 ## Related Topics
 
 * [Staging](https://learn.liferay.com/dxp/7.x/en/site-building/publishing-tools/staging.html)
-* [Export and Import of Content and Pages](https://help.liferay.com/hc/en-us/articles/360018154951-Importing-Exporting-Pages-and-Content)
+* [Export and Import of Content and Pages](https://learn.liferay.com/dxp/latest/en/site-building/building-sites/importing-exporting-pages-and-content.html)
 * [What's new in 7.3?](https://learn.liferay.com/dxp/latest/en/getting-started/whats-new-73.html#publication-management)
 
 ## Community Resources

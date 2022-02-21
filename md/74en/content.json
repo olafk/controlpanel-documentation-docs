@@ -4328,5 +4328,82 @@
 				"secondary": "editProductDefinition"
 			}
 		]
+	},
+	{
+		"portletId": "com_liferay_portal_language_override_web_internal_portlet_PLOPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_portal_language_override_web_internal_portlet_PLOPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_object_web_internal_object_definitions_portlet_ObjectDefinitionsPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_object_web_internal_object_definitions_portlet_ObjectDefinitionsPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_object_web_internal_list_type_portlet_portlet_ListTypeDefinitionsPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_object_web_internal_list_type_portlet_portlet_ListTypeDefinitionsPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_account_admin_web_internal_portlet_AccountEntriesAdminPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_account_admin_web_internal_portlet_AccountEntriesAdminPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_account_admin_web_internal_portlet_AccountUsersAdminPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_account_admin_web_internal_portlet_AccountUsersAdminPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_account_admin_web_internal_portlet_AccountGroupsAdminPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_account_admin_web_internal_portlet_AccountGroupsAdminPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_commerce_order_web_internal_portlet_CommerceOrderTypePortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_commerce_order_web_internal_portlet_CommerceOrderTypePortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			}
+		]
 	}
 ]

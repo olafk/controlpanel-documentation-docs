@@ -2,11 +2,10 @@
 
 ## Documentation
 
-* [Search](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/search)
+* [Using Search](https://learn.liferay.com/dxp/latest/en/using-search.html)
 
 ## Related Topics
 
-* [Introduction to Installing a Search Engine](https://help.liferay.com/hc/en-us/articles/360028711092-Introduction-to-Installing-a-Search-Engine)
 
 ## Community Resources
 

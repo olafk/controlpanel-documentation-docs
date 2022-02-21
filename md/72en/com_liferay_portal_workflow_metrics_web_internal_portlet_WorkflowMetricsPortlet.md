@@ -2,8 +2,8 @@
 
 ## Documentation
 
-* [Workflow](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/workflow)
-* DXP only: [Workflow Metrics](https://help.liferay.com/hc/en-us/articles/360029042071-Workflow-Metrics-The-Service-Level-Agreement-SLA-)
+* [Workflow](https://learn.liferay.com/dxp/latest/en/process-automation/workflow.html)
+* DXP only: [Workflow Metrics](https://learn.liferay.com/dxp/latest/en/process-automation/workflow/using-workflows/using-workflow-metrics.html)
 
 ## Related Topics
 

@@ -14,6 +14,7 @@
 
 ## Community Resources
 
+* [Marcial Calvo Valenzuela: Auditing Liferay DXP: Who has done what and when?](https://liferay.dev/blogs/-/blogs/auditing-liferay-dxp-who-has-done-what-and-when)
 
 ### Contribute
 

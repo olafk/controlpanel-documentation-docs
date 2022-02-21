@@ -2,7 +2,7 @@
 
 ## Documentation
 
-* [Content Dashboard](https://learn.liferay.com/dxp/7.x/en/content-authoring-and-management/content_dashboard.html)
+* [Content Dashboard](https://learn.liferay.com/dxp/latest/en/content-authoring-and-management/content-dashboard.html)
 
 ## Related Topics
 

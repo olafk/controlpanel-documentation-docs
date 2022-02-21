@@ -2,15 +2,11 @@
 
 ## Documentation
 
-* [Search Tuning: Synonym Sets](https://help.liferay.com/hc/en-us/articles/360034473852-Search-Tuning-Synonym-Sets)
-* Note: link covers version 7.2 - requires update
+* [Search Tuning: Synonym Sets](https://learn.liferay.com/dxp/latest/en/using-search/search-administration-and-tuning/synonym-sets.html)
 
 ## Related Topics
 
-* [Search](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/search)
-* Note: link covers version 7.2 - requires update
-* [Introduction to Installing a Search Engine](https://help.liferay.com/hc/en-us/articles/360028711092-Introduction-to-Installing-a-Search-Engine)
-* Note: link covers version 7.2 - requires update
+* [Using Search](https://learn.liferay.com/dxp/latest/en/using-search.html)
 
 ## Community Resources
 
