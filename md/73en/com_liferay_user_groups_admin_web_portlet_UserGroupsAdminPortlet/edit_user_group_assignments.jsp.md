@@ -2,7 +2,7 @@
 
 ## Documentation
 
-* [User Groups](https://learn.liferay.com/dxp/7.x/en/users-and-permissions/user_groups.html)
+* [User Groups](https://learn.liferay.com/dxp/latest/en/users-and-permissions/user-groups.html)
 
 ## Related Topics
 

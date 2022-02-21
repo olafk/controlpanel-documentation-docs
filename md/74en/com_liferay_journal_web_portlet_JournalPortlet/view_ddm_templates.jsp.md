@@ -2,7 +2,7 @@
 
 ## Documentation
 
-* [Web Content Templates](https://learn.liferay.com/dxp/7.x/en/content-authoring-and-management/web-content/web_content_templates.html)
+* [Web Content Templates](https://learn.liferay.com/dxp/latest/en/content-authoring-and-management/web-content/web-content-templates.html)
 
 ## Related Topics
 

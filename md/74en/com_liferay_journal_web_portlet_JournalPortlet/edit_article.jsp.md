@@ -2,7 +2,7 @@
 
 ## Documentation
 
-* [Web Content Articles](https://learn.liferay.com/dxp/7.x/en/content-authoring-and-management/web-content/web_content_articles.html)
+* [Web Content Articles](https://learn.liferay.com/dxp/latest/en/content-authoring-and-management/web-content/web-content-articles.html)
 
 ## Related Topics
 

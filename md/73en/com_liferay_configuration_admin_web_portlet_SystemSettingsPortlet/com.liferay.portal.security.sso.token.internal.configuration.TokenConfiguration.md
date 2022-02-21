@@ -2,7 +2,7 @@
 
 ## Documentation
 
-* [Configuring SSO](https://learn.liferay.com/dxp/7.x/en/installation-and-upgrades/securing-liferay/configuring_sso.html)
+* [Configuring SSO](https://learn.liferay.com/dxp/latest/en/installation-and-upgrades/securing-liferay/configuring-sso.html)
 
 ## Related Topics
 

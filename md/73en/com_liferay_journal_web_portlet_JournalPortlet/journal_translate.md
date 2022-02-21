@@ -3,7 +3,7 @@
 ## Documentation
 
 * [Translating Web Content](https://learn.liferay.com/dxp/latest/en/content-authoring-and-management/web-content/translating_web_content.html)
-* [Web Content Articles](https://learn.liferay.com/dxp/7.x/en/content-authoring-and-management/web-content/web_content_articles.html)
+* [Web Content Articles](https://learn.liferay.com/dxp/latest/en/content-authoring-and-management/web-content/web-content-articles.html)
 
 ## Related Topics
 

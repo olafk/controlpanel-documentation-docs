@@ -2,7 +2,7 @@
 
 ## Documentation
 
-* [Designing and Managing Workflows](https://learn.liferay.com/dxp/7.x/en/process-automation/workflow/designing_and_managing_workflows.html)
+* [Designing and Managing Workflows](https://learn.liferay.com/dxp/latest/en/process-automation/workflow/designing-and-managing-workflows.html)
 * [Crafting XML Workflow Definitions](https://learn.liferay.com/dxp/7.x/en/process-automation/workflow/developer-guide/crafting-xml-workflow-definitions.html) (Developer-oriented)
 
 ## Related Topics

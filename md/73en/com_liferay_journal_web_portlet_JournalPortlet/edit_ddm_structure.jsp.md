@@ -2,7 +2,7 @@
 
 ## Documentation
 
-* [Web Content Structures](https://learn.liferay.com/dxp/7.x/en/content-authoring-and-management/web-content/web_content_structures.html)
+* [Web Content Structures](https://learn.liferay.com/dxp/latest/en/content-authoring-and-management/web-content/web-content-structures.html)
 
 ## Related Topics
 

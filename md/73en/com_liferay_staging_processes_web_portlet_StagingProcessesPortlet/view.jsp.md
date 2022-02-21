@@ -6,7 +6,7 @@
 
 ## Related Topics
 
-* [Using Workflows](https://learn.liferay.com/dxp/7.x/en/process-automation/workflow/using_workflows.html)
+* [Using Workflows](https://learn.liferay.com/dxp/latest/en/process-automation/workflow/using-workflows.html)
 * [Publications](https://learn.liferay.com/dxp/latest/en/site-building/publishing-tools/publications.html)
 * [Export and Import of Content and Pages](https://learn.liferay.com/dxp/latest/en/site-building/building-sites/importing-exporting-pages-and-content.html)
 

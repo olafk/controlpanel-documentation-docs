@@ -2,7 +2,7 @@
 
 ## Documentation
 
-* [Roles and Permissions](https://learn.liferay.com/dxp/7.x/en/users-and-permissions/roles_and_permissions.html)
+* [Roles and Permissions](https://learn.liferay.com/dxp/latest/en/users-and-permissions/roles-and-permissions.html)
 * [Defining Role Permissions](https://learn.liferay.com/dxp/7.x/en/users-and-permissions/roles-and-permissions/defining-role-permissions.html)
 
 ## Related Topics

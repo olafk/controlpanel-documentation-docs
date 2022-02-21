@@ -2,7 +2,7 @@
 
 ## Documentation
 
-* [Tags and Categories](https://learn.liferay.com/dxp/7.x/en/content-authoring-and-management/tags_and_categories.html)
+* [Tags and Categories](https://learn.liferay.com/dxp/latest/en/content-authoring-and-management/tags-and-categories.html)
 
 ## Related Topics
 

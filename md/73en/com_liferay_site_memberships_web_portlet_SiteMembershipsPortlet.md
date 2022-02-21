@@ -7,8 +7,8 @@
 
 ## Related Topics
 
-* [Roles and Permissions](https://learn.liferay.com/dxp/7.x/en/users-and-permissions/roles_and_permissions.html)
-* [User Groups](https://learn.liferay.com/dxp/7.x/en/users-and-permissions/user_groups.html)
+* [Roles and Permissions](https://learn.liferay.com/dxp/latest/en/users-and-permissions/roles-and-permissions.html)
+* [User Groups](https://learn.liferay.com/dxp/latest/en/users-and-permissions/user-groups.html)
 
 ## Community Resources
 
