@@ -1,5 +1,34 @@
 [
 	{
+		"portletId": "com_liferay_search_experiences_web_internal_blueprint_admin_portlet_SXPBlueprintAdminPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_search_experiences_web_internal_blueprint_admin_portlet_SXPBlueprintAdminPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_search_experiences_web_internal_blueprint_admin_portlet_SXPBlueprintAdminPortlet\/sxpBlueprints.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "sxpBlueprints"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_search_experiences_web_internal_blueprint_admin_portlet_SXPBlueprintAdminPortlet\/sxpElements.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "sxpElements"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_search_experiences_web_internal_blueprint_admin_portlet_SXPBlueprintAdminPortlet\/sxp_blueprint_admin_edit_sxp_blueprint.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "sxp_blueprint_admin_edit_sxp_blueprint"
+			}
+		]
+	},
+	{
 		"portletId": "com_liferay_change_tracking_web_portlet_PublicationsPortlet",
 		"urlConfig": [
 			{
