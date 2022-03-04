@@ -2,8 +2,8 @@
 
 ## Documentation
 
-* [Using the Advanced File System Store](https://portal.liferay.dev/docs/7-2/deploy/-/knowledge_base/d/using-the-advanced-file-system-store)
-* Note: link covers version 7.2 - requires update
+* [File System Storage](https://learn.liferay.com/dxp/latest/en/system-administration/file-storage.html)
+
 
 ## Related Topics
 

@@ -2,10 +2,11 @@
 
 ## Documentation
 
-* [Server Administration](https://learn.liferay.com/dxp/latest/en/system-administration/using-the-server-administration-panel.html)
+* [File Store Migration](https://learn.liferay.com/dxp/latest/en/system-administration/file-storage/file-store-migration.html)
 
 ## Related Topics
 
+* [Server Administration](https://learn.liferay.com/dxp/latest/en/system-administration/using-the-server-administration-panel.html)
 
 ## Community Resources
 
