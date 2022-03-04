@@ -1,8 +1,8 @@
-# Dispatches
+# Job Scheduler
 
 ## Documentation
 
-* Sorry, no documentation linked yet - please contribute
+* [Dispatch Framework](https://learn.liferay.com/dxp/latest/en/building-applications/core-frameworks/dispatch-framework.html)
 
 ## Related Topics
 

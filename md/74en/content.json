@@ -1828,6 +1828,18 @@
 				"mediaType": null,
 				"mediaURL": null,
 				"secondary": "editDispatchTrigger"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_dispatch_web_internal_portlet_DispatchPortlet\/dispatch-trigger.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "dispatch-trigger"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_dispatch_web_internal_portlet_DispatchPortlet\/scheduler-response.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "scheduler-response"
 			}
 		]
 	},
