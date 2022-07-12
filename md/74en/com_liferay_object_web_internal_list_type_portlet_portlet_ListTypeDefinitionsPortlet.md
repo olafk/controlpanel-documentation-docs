@@ -2,7 +2,7 @@
 
 ## Documentation
 
-* [Using Picklists](https://learn.liferay.com/dxp/latest/en/building-applications/objects/using-picklists.html)
+* [Using Picklists](https://learn.liferay.com/dxp/latest/en/building-applications/objects/picklists/using-picklists.html)
 
 ## Related Topics
 
