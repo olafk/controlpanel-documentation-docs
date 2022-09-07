@@ -324,6 +324,23 @@
 		]
 	},
 	{
+		"portletId": "com_liferay_template_web_internal_portlet_TemplatePortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_template_web_internal_portlet_TemplatePortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_template_web_internal_portlet_TemplatePortlet\/widget-templates.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "widget-templates"
+			}
+		]
+	},
+	{
 		"portletId": "com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet",
 		"urlConfig": [
 			{
