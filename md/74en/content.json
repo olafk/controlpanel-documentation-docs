@@ -4424,6 +4424,54 @@
 				"mediaType": null,
 				"mediaURL": null,
 				"secondary": "-"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_object_web_internal_object_definitions_portlet_ObjectDefinitionsPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "object_definitions_edit_object_definition"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_object_web_internal_object_definitions_portlet_ObjectDefinitionsPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "details"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_object_web_internal_object_definitions_portlet_ObjectDefinitionsPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "fields"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_object_web_internal_object_definitions_portlet_ObjectDefinitionsPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "relationships"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_object_web_internal_object_definitions_portlet_ObjectDefinitionsPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "actions"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_object_web_internal_object_definitions_portlet_ObjectDefinitionsPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "views"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_object_web_internal_object_definitions_portlet_ObjectDefinitionsPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "validations"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_object_web_internal_object_definitions_portlet_ObjectDefinitionsPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "state-manager"
 			}
 		]
 	},
