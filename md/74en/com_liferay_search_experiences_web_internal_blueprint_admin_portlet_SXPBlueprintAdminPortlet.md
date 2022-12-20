@@ -11,6 +11,7 @@
 ## Community Resources
 
 * [Dave Nebinger: Boosting Search Revisited](https://liferay.dev/web/guest/blogs/-/blogs/boosting-search-revisited)
+* [Tibor Lipusz, Petteri Karttunen at /dev/24 2022: Easily customize Liferay's search behavior with Liferay Enterprise Search Experiences](https://youtu.be/z4GkQWdC0b8?t=7539) [Full Event Content](https://liferay.dev/twentyfour/2022)
 
 ### Contribute
 
