@@ -10,7 +10,7 @@
 
 ## Community Resources
 
-* [Marcos Castro at /dev/24: Dynamic Styling in DXP](https://liferay.dev/24#Dynamic%20Styling%20in%20DXP) - with [Video](https://youtu.be/Mu0LcyOPadQ?t=33500)
+* [Marcos Castro at /dev/24 2020: Dynamic Styling in DXP](https://liferay.dev/twentyfour/2020#Dynamic%20Styling%20in%20DXP) - with [Video](https://youtu.be/Mu0LcyOPadQ?t=33500)
 * [Video: Liferay Learning: Seamless Content Creation with Style Books](https://youtu.be/ZbD8VP9Mbq0) in Liferay DXP 7.3
 
 ### Contribute
