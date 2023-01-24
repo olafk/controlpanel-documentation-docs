@@ -6,7 +6,7 @@
 
 ## Related Topics
 
-* "OpenId Connect Provider Connection" Administration in "Control Panel/System and Instance Settings/SSO" (the basic version of this basic configuration)
+* "OpenId Connect Provider Connection" Administration in "Control Panel/System and Instance Settings/SSO" (the basic version of this advanced configuration)
 
 ## Community Resources
 
