@@ -4175,6 +4175,12 @@
 				"mediaType": null,
 				"mediaURL": null,
 				"secondary": "-"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_site_admin_web_portlet_SiteSettingsPortlet\/com_liferay_frontend_js_walkthrough_web_internal_configuration_WalkthroughConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.frontend.js.walkthrough.web.internal.configuration.WalkthroughConfiguration"
 			}
 		]
 	},
