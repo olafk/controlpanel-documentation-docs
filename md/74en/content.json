@@ -1636,10 +1636,33 @@
 				"secondary": "-"
 			},
 			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_depot_web_portlet_DepotAdminPortlet\/depot_view_depot_dashboard.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "depot_view_depot_dashboard"
+			},
+			{
 				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_depot_web_portlet_DepotAdminPortlet\/depot_edit_depot_entry.html",
 				"mediaType": null,
 				"mediaURL": null,
 				"secondary": "depot_edit_depot_entry"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_depot_web_portlet_DepotSettingsPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_depot_web_portlet_DepotSettingsPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_depot_web_portlet_DepotSettingsPortlet\/general.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "general"
 			}
 		]
 	},
