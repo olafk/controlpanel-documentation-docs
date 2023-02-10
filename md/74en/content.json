@@ -1182,6 +1182,12 @@
 				"mediaType": null,
 				"mediaURL": null,
 				"secondary": "com.liferay.social.activity.internal.configuration.SocialActivityCompanyConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/com.liferay.change.tracking.configuration.CTSettingsConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.change.tracking.configuration.CTSettingsConfiguration"
 			}
 		]
 	},
