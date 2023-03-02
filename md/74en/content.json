@@ -1251,6 +1251,12 @@
 				"secondary": "file_entry_types"
 			},
 			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_document_library_web_portlet_DLAdminPortlet\/document_library_view_folder.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "document_library_view_folder"
+			},
+			{
 				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_document_library_web_portlet_DLAdminPortlet\/file_entry_metadata_sets.html",
 				"mediaType": null,
 				"mediaURL": null,
@@ -1480,6 +1486,12 @@
 				"mediaType": null,
 				"mediaURL": null,
 				"secondary": "-"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_asset_list_web_portlet_AssetListPortlet\/edit_asset_list_entry.jsp.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "edit_asset_list_entry.jsp"
 			},
 			{
 				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_asset_list_web_portlet_AssetListPortlet\/view_info_list_providers.jsp.html",

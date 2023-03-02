@@ -12,4 +12,4 @@
 
 ### Contribute
 
-[Edit this file on github](https://github.com/olafk/controlpanel-documentation-docs/blob/master/md/74en/com_liferay_document_library_web_portlet_DLAdminPortlet.md)
+[Edit this file on github](https://github.com/olafk/controlpanel-documentation-docs/blob/master/md/74en/com_liferay_document_library_web_portlet_DLAdminPortlet/document_library_view_folder.md)
