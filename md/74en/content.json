@@ -1395,6 +1395,18 @@
 				"mediaType": null,
 				"mediaURL": null,
 				"secondary": "fragment_edit_fragment_entry"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_fragment_web_portlet_FragmentPortlet\/fragments.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "fragments"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_fragment_web_portlet_FragmentPortlet\/resources.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "resources"
 			}
 		]
 	},
