@@ -4480,6 +4480,72 @@
 				"secondary": "viewInstances"
 			},
 			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_commerce_product_definitions_web_internal_portlet_CPDefinitionsPortlet\/0.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "0"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_commerce_product_definitions_web_internal_portlet_CPDefinitionsPortlet\/1.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "1"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_commerce_product_definitions_web_internal_portlet_CPDefinitionsPortlet\/details.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "details"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_commerce_product_definitions_web_internal_portlet_CPDefinitionsPortlet\/options.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "options"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_commerce_product_definitions_web_internal_portlet_CPDefinitionsPortlet\/skus.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "skus"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_commerce_product_definitions_web_internal_portlet_CPDefinitionsPortlet\/media.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "media"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_commerce_product_definitions_web_internal_portlet_CPDefinitionsPortlet\/product-relations.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "product-relations"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_commerce_product_definitions_web_internal_portlet_CPDefinitionsPortlet\/product-groups.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "product-groups"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_commerce_product_definitions_web_internal_portlet_CPDefinitionsPortlet\/subscription.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "subscription"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_commerce_product_definitions_web_internal_portlet_CPDefinitionsPortlet\/visibility.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "visibility"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_commerce_product_definitions_web_internal_portlet_CPDefinitionsPortlet\/configuration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "configuration"
+			},
+			{
 				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_commerce_product_definitions_web_internal_portlet_CPDefinitionsPortlet\/editProductDefinition.html",
 				"mediaType": null,
 				"mediaURL": null,
