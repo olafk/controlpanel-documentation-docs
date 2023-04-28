@@ -2,13 +2,13 @@
 
 ## Documentation
 
-* Sorry, no documentation linked yet - please contribute
+* [Creating and Managing Products](https://learn.liferay.com/w/commerce/product-management/creating-and-managing-products)
 
 ## Related Topics
 
-* [Commerce 2.x documentation](https://learn.liferay.com/commerce/2.x/en/index.html)
 
 ## Community Resources
+
 
 ### Contribute
 

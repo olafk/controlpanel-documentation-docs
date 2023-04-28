@@ -2,7 +2,7 @@
 
 ## Documentation
 
-* Sorry, no documentation linked yet - please contribute
+* [Creating and Managing Products](https://learn.liferay.com/w/commerce/product-management/creating-and-managing-products)
 
 ## Related Topics
 
