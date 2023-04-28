@@ -2,7 +2,7 @@
 
 ## Documentation
 
-* Sorry, no documentation linked yet - please contribute
+* [Using Product Options](https://learn.liferay.com/w/commerce/product-management/creating-and-managing-products/products/using-product-options)
 
 ## Related Topics
 
