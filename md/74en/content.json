@@ -333,6 +333,12 @@
 				"secondary": "-"
 			},
 			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_template_web_internal_portlet_TemplatePortlet\/display.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "display"
+			},
+			{
 				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_template_web_internal_portlet_TemplatePortlet\/widget-templates.html",
 				"mediaType": null,
 				"mediaURL": null,
