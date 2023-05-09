@@ -29,6 +29,17 @@
 		]
 	},
 	{
+		"portletId": "com_liferay_translation_web_internal_portlet_TranslationPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_translation_web_internal_portlet_TranslationPortlet\/translation_translate.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "translation_translate"
+			}
+		]
+	},
+	{
 		"portletId": "com_liferay_change_tracking_web_portlet_PublicationsPortlet",
 		"urlConfig": [
 			{
