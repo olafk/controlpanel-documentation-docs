@@ -4700,5 +4700,16 @@
 				"secondary": "-"
 			}
 		]
+	},
+	{
+		"portletId": "com_liferay_portal_health_web_portlet_HealthcheckWebPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_portal_health_web_portlet_HealthcheckWebPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			}
+		]
 	}
 ]
