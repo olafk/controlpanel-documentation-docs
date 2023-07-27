@@ -2,7 +2,7 @@
 
 ## Documentation
 
-* [Developing Page Fragments](https://learn.liferay.com/dxp/7.x/en/site-building/developer-guide/developing_page_fragments.html)
+* [Page Fragments and Widgets](https://learn.liferay.com/en/w/dxp/site-building/creating-pages/page-fragments-and-widgets)
 
 ## Related Topics
 
@@ -11,6 +11,8 @@
 
 ## Community Resources
 
+* [Search Fragments in all Fragment Sets](https://github.com/olafk/fragment-search-filter)
+* [Display stylebook tokens in fragment editor](https://github.com/olafk/stylebook-tokendisplay-web)
 
 ### Contribute
 

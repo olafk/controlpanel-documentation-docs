@@ -2,11 +2,11 @@
 
 ## Documentation
 
-* [Developing Page Fragments](https://learn.liferay.com/dxp/7.x/en/site-building/developer-guide/developing_page_fragments.html)
+* [Page Fragments and Widgets](https://learn.liferay.com/en/w/dxp/site-building/creating-pages/page-fragments-and-widgets)
 
 ## Related Topics
 
-* [Building and Managing Content Pages](https://learn.liferay.com/dxp/7.x/en/site-building/creating-pages/building_and_managing_content_pages.html)
+* [Using Content Pages](https://learn.liferay.com/en/w/dxp/site-building/creating-pages/using-content-pages)
 
 ## Community Resources
 
