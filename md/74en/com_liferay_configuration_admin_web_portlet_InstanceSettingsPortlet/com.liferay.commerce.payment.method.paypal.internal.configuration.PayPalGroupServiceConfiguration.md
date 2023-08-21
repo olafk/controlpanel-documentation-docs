@@ -6,6 +6,8 @@
 
 ## Related Topics
 
+* [Commerce Documentation](https://learn.liferay.com/w/commerce/index)
+
 ## Community Resources
 
 * [Roselaine Marques: How to create a new Payment Method for Liferay Commerce Part 1](https://liferay.dev/blogs/-/blogs/how-to-create-a-new-payment-method-for-liferay-commerce-part-1)

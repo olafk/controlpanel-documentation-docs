@@ -6,7 +6,9 @@
 
 ## Related Topics
 
-* [System- and Instance Settings: Understanding Configuration Scopes](https://learn.liferay.com/dxp/7.x/en/system-administration/configuring-liferay/understanding-configuration-scope.html#system-settings-and-instance-settings)
+* [System- and Instance Settings: Understanding Configuration Scopes](https://learn.liferay.com/en/w/dxp/system-administration/configuring-liferay/understanding-configuration-scope#system-settings-and-instance-settings)
+* [Understanding Virtual Instances](https://learn.liferay.com/en/w/dxp/system-administration/configuring-liferay/virtual-instances/understanding-virtual-instances)
+* [Virtual Instances](https://learn.liferay.com/en/w/dxp/system-administration/configuring-liferay/virtual-instances)
 
 ## Community Resources
 

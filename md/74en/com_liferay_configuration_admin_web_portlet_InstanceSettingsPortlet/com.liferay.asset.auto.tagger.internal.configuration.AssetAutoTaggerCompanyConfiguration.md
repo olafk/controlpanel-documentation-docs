@@ -2,14 +2,15 @@
 
 ## Documentation
 
-* [Configuring Asset Auto Tagging](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/configuring-asset-auto-tagging)
-* Note: link covers version 7.2 - requires update
+* [System- and Instance Settings: Understanding Configuration Scopes](https://learn.liferay.com/en/w/dxp/system-administration/configuring-liferay/understanding-configuration-scope#system-settings-and-instance-settings)
+* [Understanding Virtual Instances](https://learn.liferay.com/en/w/dxp/system-administration/configuring-liferay/virtual-instances/understanding-virtual-instances)
+* [Virtual Instances](https://learn.liferay.com/en/w/dxp/system-administration/configuring-liferay/virtual-instances)
 
 ## Related Topics
 
-* [What's new in 7.2: Autotagging](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/whats-new-in-72#auto-tagging)
-* [System- and Instance Settings: Understanding Configuration Scopes](https://learn.liferay.com/dxp/7.x/en/system-administration/configuring-liferay/understanding-configuration-scope.html#system-settings-and-instance-settings)
-* [Classic configuration file options: portal.properties](https://docs.liferay.com/portal/7.4-latest/propertiesdoc/portal.properties.html)
+* [System- and Instance Settings: Understanding Configuration Scopes](https://learn.liferay.com/en/w/dxp/system-administration/configuring-liferay/understanding-configuration-scope#system-settings-and-instance-settings)
+* [Understanding Virtual Instances](https://learn.liferay.com/en/w/dxp/system-administration/configuring-liferay/virtual-instances/understanding-virtual-instances)
+* [Virtual Instances](https://learn.liferay.com/en/w/dxp/system-administration/configuring-liferay/virtual-instances)
 
 ## Community Resources
 

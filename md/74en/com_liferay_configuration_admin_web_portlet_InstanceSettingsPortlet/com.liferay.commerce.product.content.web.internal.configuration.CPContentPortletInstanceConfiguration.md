@@ -6,6 +6,8 @@
 
 ## Related Topics
 
+* [Commerce Documentation](https://learn.liferay.com/w/commerce/index)
+
 ## Community Resources
 
 * [Exploring documentation](https://liferay.dev/blogs/-/blogs/exploring-documentation)
