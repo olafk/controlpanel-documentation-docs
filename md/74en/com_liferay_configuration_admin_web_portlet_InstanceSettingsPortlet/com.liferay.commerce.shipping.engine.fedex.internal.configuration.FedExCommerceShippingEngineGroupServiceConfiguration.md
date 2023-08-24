@@ -2,7 +2,8 @@
 
 ## Documentation
 
-* [System- and Instance Settings: Understanding Configuration Scopes](https://learn.liferay.com/dxp/7.x/en/system-administration/configuring-liferay/understanding-configuration-scope.html#system-settings-and-instance-settings)
+* [Shipments](https://learn.liferay.com/w/commerce/order-management/shipments)
+* [Commerce Documentation](https://learn.liferay.com/w/commerce/index) (ToDo: Link more concrete chapter - please contribute)
 
 ## Related Topics
 
