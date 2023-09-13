@@ -144,6 +144,12 @@
 				"mediaType": null,
 				"mediaURL": null,
 				"secondary": "-"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_dynamic_data_mapping_form_web_portlet_DDMFormAdminPortlet\/admin_edit_form_instance.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "admin_edit_form_instance"
 			}
 		]
 	},
@@ -303,6 +309,12 @@
 				"mediaType": null,
 				"mediaURL": null,
 				"secondary": "-"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_dynamic_data_lists_web_portlet_DDLPortlet\/edit_record_set.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "edit_record_set"
 			}
 		]
 	},
@@ -1272,6 +1284,42 @@
 				"mediaType": null,
 				"mediaURL": null,
 				"secondary": "document_library_view_folder"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_document_library_web_portlet_DLAdminPortlet\/document_library_view.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "document_library_view"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_document_library_web_portlet_DLAdminPortlet\/document_library_edit_file_entry.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "document_library_edit_file_entry"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_document_library_web_portlet_DLAdminPortlet\/document_library_upload_multiple_file_entries.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "document_library_upload_multiple_file_entries"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_document_library_web_portlet_DLAdminPortlet\/document_library_edit_file_shortcut.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "document_library_edit_file_shortcut"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_document_library_web_portlet_DLAdminPortlet\/document_library_edit_folder.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "document_library_edit_folder"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_document_library_web_portlet_DLAdminPortlet\/document_library_edit_repository.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "document_library_edit_repository"
 			},
 			{
 				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_document_library_web_portlet_DLAdminPortlet\/file_entry_metadata_sets.html",

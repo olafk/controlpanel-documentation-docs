@@ -2,8 +2,7 @@
 
 ## Documentation
 
-* [Dynamic Data Lists](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/dynamic-data-lists)
-* Note: link covers version 7.2 - requires update
+* [Dynamic Data Lists](https://learn.liferay.com/web/guest/w/dxp/process-automation/forms/dynamic-data-lists)
 
 ## Related Topics
 
