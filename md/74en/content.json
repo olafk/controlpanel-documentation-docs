@@ -1,5 +1,16 @@
 [
 	{
+		"portletId": "com_liferay_client_extension_web_internal_portlet_ClientExtensionAdminPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_client_extension_web_internal_portlet_ClientExtensionAdminPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			}
+		]
+	},
+	{
 		"portletId": "com_liferay_search_experiences_web_internal_blueprint_admin_portlet_SXPBlueprintAdminPortlet",
 		"urlConfig": [
 			{
@@ -4637,6 +4648,12 @@
 				"mediaType": null,
 				"mediaURL": null,
 				"secondary": "-"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_object_web_internal_object_definitions_portlet_ObjectDefinitionsPortlet\/custom.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "custom"
 			},
 			{
 				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_object_web_internal_object_definitions_portlet_ObjectDefinitionsPortlet\/object_definitions_edit_object_definition.html",
