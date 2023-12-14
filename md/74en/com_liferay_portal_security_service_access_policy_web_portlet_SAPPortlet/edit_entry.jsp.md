@@ -2,7 +2,8 @@
 
 ## Documentation
 
-* Sorry, no documentation linked yet - please contribute
+* [Understanding Service Access Policies](https://learn.liferay.com/web/guest/w/courses/liferay-administrator/security/securing-web-services/service-access-policies)
+* [Setting Service Access Policies](https://learn.liferay.com/w/dxp/installation-and-upgrades/securing-liferay/securing-web-services/setting-service-access-policies)
 
 ## Related Topics
 

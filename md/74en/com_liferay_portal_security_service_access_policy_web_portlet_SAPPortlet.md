@@ -2,13 +2,10 @@
 
 ## Documentation
 
-* [Service Access Policies](https://portal.liferay.dev/docs/7-2/frameworks/-/knowledge_base/f/service-access-policies)
-* Note: link covers version 7.2 - requires update
+* [Understanding Service Access Policies](https://learn.liferay.com/web/guest/w/courses/liferay-administrator/security/securing-web-services/service-access-policies)
+* [Setting Service Access Policies](https://learn.liferay.com/w/dxp/installation-and-upgrades/securing-liferay/securing-web-services/setting-service-access-policies)
 
 ## Related Topics
-
-* [Application Security](https://portal.liferay.dev/docs/7-2/frameworks/-/knowledge_base/f/application-security)
-* Note: link covers version 7.2 - requires update
 
 ## Community Resources
 
