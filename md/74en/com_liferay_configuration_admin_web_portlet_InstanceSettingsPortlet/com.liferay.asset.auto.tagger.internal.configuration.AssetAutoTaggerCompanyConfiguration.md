@@ -2,9 +2,8 @@
 
 ## Documentation
 
-* [System- and Instance Settings: Understanding Configuration Scopes](https://learn.liferay.com/en/w/dxp/system-administration/configuring-liferay/understanding-configuration-scope#system-settings-and-instance-settings)
-* [Understanding Virtual Instances](https://learn.liferay.com/en/w/dxp/system-administration/configuring-liferay/virtual-instances/understanding-virtual-instances)
-* [Virtual Instances](https://learn.liferay.com/en/w/dxp/system-administration/configuring-liferay/virtual-instances)
+* [Auto Tagging](https://learn.liferay.com/web/guest/w/dxp/content-authoring-and-management/tags-and-categories/auto-tagging)
+
 
 ## Related Topics
 

@@ -2,8 +2,7 @@
 
 ## Documentation
 
-* [Publishing Blogs](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/publishing-blogs)
-* Note: link covers version 7.2 - requires update
+* [Getting Started with Blogs](https://learn.liferay.com/web/guest/w/dxp/content-authoring-and-management/blogs/getting-started-with-blogs)
 
 ## Related Topics
 

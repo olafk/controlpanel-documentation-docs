@@ -6,7 +6,7 @@
 
 ## Related Topics
 
-* [Classic configuration file options: portal.properties](https://docs.liferay.com/portal/7.4-latest/propertiesdoc/portal.properties.html)
+* [Classic configuration file options: portal.properties](https://learn.liferay.com/reference/latest/en/dxp/propertiesdoc/portal.properties.html)
 * [Making Authenticated Requests](https://portal.liferay.dev/docs/7-2/frameworks/-/knowledge_base/f/making-authenticated-requests)
 * Note: link covers version 7.2 - requires update
 * [Web Services](https://portal.liferay.dev/docs/7-2/frameworks/-/knowledge_base/f/web-services)

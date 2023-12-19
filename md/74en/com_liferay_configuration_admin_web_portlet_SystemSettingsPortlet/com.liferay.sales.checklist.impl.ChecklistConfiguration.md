@@ -19,7 +19,7 @@ In both cases it'll show the full checklist once you click on its icon.
 ## Related Topics
 
 * [System Settings](https://learn.liferay.com/dxp/7.x/en/system-administration/system-settings/system-settings.html)
-* [Classic configuration file options: portal.properties](https://docs.liferay.com/portal/7.4-latest/propertiesdoc/portal.properties.html)
+* [Classic configuration file options: portal.properties](https://learn.liferay.com/reference/latest/en/dxp/propertiesdoc/portal.properties.html)
 
 ## Community Resources
 

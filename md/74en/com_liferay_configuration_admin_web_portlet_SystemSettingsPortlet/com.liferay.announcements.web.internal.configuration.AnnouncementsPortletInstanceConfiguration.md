@@ -2,13 +2,11 @@
 
 ## Documentation
 
-* [System Settings](https://learn.liferay.com/dxp/7.x/en/system-administration/configuring-liferay/system-settings.html)
+* [Sending Alerts and Announcements](https://learn.liferay.com/w/dxp/collaboration-and-social/alerts-and-announcements/sending-alerts-and-announcements)
 
 ## Related Topics
 
-* [Classic configuration file options: portal.properties](https://docs.liferay.com/portal/7.4-latest/propertiesdoc/portal.properties.html)
-* [Sending Alerts and Announcements](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/sending-alerts-and-announcements)
-* Note: link covers version 7.2 - requires update
+* [Classic configuration file options: portal.properties](https://learn.liferay.com/reference/latest/en/dxp/propertiesdoc/portal.properties.html)
 
 ## Community Resources
 

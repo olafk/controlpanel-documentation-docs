@@ -6,7 +6,7 @@
 
 ## Related Topics
 
-* [Classic configuration file options: portal.properties](https://docs.liferay.com/portal/7.4-latest/propertiesdoc/portal.properties.html)
+* [Classic configuration file options: portal.properties](https://learn.liferay.com/reference/latest/en/dxp/propertiesdoc/portal.properties.html)
 * [What's new in 7.3](https://learn.liferay.com/dxp/7.x/en/getting-started/whats-new-73.html#global-menu)
 
 ## Community Resources

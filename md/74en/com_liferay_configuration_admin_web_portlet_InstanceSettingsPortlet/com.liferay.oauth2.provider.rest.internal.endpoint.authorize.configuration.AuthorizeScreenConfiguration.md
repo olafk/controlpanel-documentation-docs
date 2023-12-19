@@ -2,15 +2,13 @@
 
 ## Documentation
 
-* [System- and Instance Settings: Understanding Configuration Scopes](https://learn.liferay.com/dxp/7.x/en/system-administration/configuring-liferay/understanding-configuration-scope.html#system-settings-and-instance-settings)
+* [Using OAuth2](https://learn.liferay.com/w/dxp/headless-delivery/using-oauth2)
 
 ## Related Topics
 
-* [Classic configuration file options: portal.properties](https://docs.liferay.com/portal/7.4-latest/propertiesdoc/portal.properties.html)
-* [Making Authenticated Requests](https://portal.liferay.dev/docs/7-2/frameworks/-/knowledge_base/f/making-authenticated-requests)
-* [Web Services](https://portal.liferay.dev/docs/7-2/frameworks/-/knowledge_base/f/web-services)
-* For Developers: [OAuth2](https://portal.liferay.dev/docs/7-2/deploy/-/knowledge_base/d/oauth-2-0)
-* Note: links cover version 7.2 - require updates
+* [System- and Instance Settings: Understanding Configuration Scopes](https://learn.liferay.com/dxp/7.x/en/system-administration/configuring-liferay/understanding-configuration-scope.html#system-settings-and-instance-settings)
+* [Classic configuration file options: portal.properties](https://learn.liferay.com/reference/latest/en/dxp/propertiesdoc/portal.properties.html)
+* [Making Unauthenticated Requests](https://learn.liferay.com/web/guest/w/dxp/headless-delivery/consuming-apis/making-unauthenticated-requests)
 
 ## Community Resources
 

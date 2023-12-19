@@ -2,13 +2,13 @@
 
 ## Documentation
 
-* [More Platform Instance Settings](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/more-platform-section-instance-settings)
+* [Localization](https://learn.liferay.com/w/dxp/system-administration/configuring-liferay/virtual-instances/localization)
 * Note: link covers version 7.2 - requires update
 
 ## Related Topics
 
 * [System- and Instance Settings: Understanding Configuration Scopes](https://learn.liferay.com/dxp/7.x/en/system-administration/configuring-liferay/understanding-configuration-scope.html#system-settings-and-instance-settings)
-* [Classic configuration file options: portal.properties](https://docs.liferay.com/portal/7.4-latest/propertiesdoc/portal.properties.html)
+* [Classic configuration file options: portal.properties](https://learn.liferay.com/reference/latest/en/dxp/propertiesdoc/portal.properties.html)
 
 ## Community Resources
 

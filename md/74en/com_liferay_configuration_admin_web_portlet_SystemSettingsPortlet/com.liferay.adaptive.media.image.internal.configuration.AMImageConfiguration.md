@@ -2,15 +2,11 @@
 
 ## Documentation
 
-* [Adaptive Media Advanced Configuration](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/advanced-configuration-options)
-* Note: link covers version 7.2 - requires update
-* [System Settings](https://learn.liferay.com/dxp/7.x/en/system-administration/configuring-liferay/system-settings.html)
+* [Adaptive Media Advanced Configuration](https://learn.liferay.com/web/guest/w/dxp/content-authoring-and-management/documents-and-media/publishing-and-sharing/using-adaptive-media/adaptive-media-configuration-reference)
 
 ## Related Topics
 
-* [Classic configuration file options: portal.properties](https://docs.liferay.com/portal/7.4-latest/propertiesdoc/portal.properties.html)
-* [Adapting your Media across multiple devices](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/adapting-your-media-across-multiple-devices)
-* Note: link covers version 7.2 - requires update
+* [Classic configuration file options: portal.properties](https://resources.learn.liferay.com/reference/latest/en/dxp/propertiesdoc/portal.properties.html)
 
 ## Community Resources
 

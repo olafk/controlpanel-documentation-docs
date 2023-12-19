@@ -2,8 +2,7 @@
 
 ## Documentation
 
-* [Configuring Asset Auto Tagging](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/configuring-asset-auto-tagging)
-* Note: link covers version 7.2 - requires update
+* [Auto Tagging](https://learn.liferay.com/web/guest/w/dxp/content-authoring-and-management/tags-and-categories/auto-tagging)
 
 ## Related Topics
 

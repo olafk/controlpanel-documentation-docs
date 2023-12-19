@@ -6,7 +6,7 @@
 
 ## Related Topics
 
-* [Classic configuration file options: portal.properties](https://docs.liferay.com/portal/7.4-latest/propertiesdoc/portal.properties.html)
+* [Classic configuration file options: portal.properties](https://learn.liferay.com/reference/latest/en/dxp/propertiesdoc/portal.properties.html)
 * [Automatic Translation in custom code](https://portal.liferay.dev/docs/7-2/frameworks/-/knowledge_base/f/using-translation-features-in-your-widget)
 * Note: link covers version 7.2 - requires update
 
