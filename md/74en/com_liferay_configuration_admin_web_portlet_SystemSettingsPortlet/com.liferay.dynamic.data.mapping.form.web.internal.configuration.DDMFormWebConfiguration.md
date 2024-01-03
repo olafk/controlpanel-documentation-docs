@@ -2,10 +2,11 @@
 
 ## Documentation
 
-* [System Settings](https://learn.liferay.com/dxp/7.x/en/system-administration/configuring-liferay/system-settings.html)
+* [Forms](https://learn.liferay.com/web/guest/w/dxp/process-automation/forms)
 
 ## Related Topics
 
+* [System Settings](https://learn.liferay.com/dxp/7.x/en/system-administration/configuring-liferay/system-settings.html)
 * [Classic configuration file options: portal.properties](https://learn.liferay.com/reference/latest/en/dxp/propertiesdoc/portal.properties.html)
 
 ## Community Resources

@@ -6,8 +6,7 @@
 
 ## Related Topics
 
-* [Forms](https://portal.liferay.dev/docs/7-2/user/-/knowledge_base/u/forms)
-* Note: link covers version 7.2 - requires update
+* [Forms](https://learn.liferay.com/web/guest/w/dxp/process-automation/forms)
 
 ## Community Resources
 
