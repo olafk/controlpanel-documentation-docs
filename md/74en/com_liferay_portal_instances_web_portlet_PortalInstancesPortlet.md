@@ -2,7 +2,7 @@
 
 ## Documentation
 
-* [Virtual Instances](https://learn.liferay.com/dxp/7.x/en/system-administration/configuring-liferay/virtual_instances.html)
+* [Virtual Instances](https://learn.liferay.com/web/guest/w/dxp/system-administration/configuring-liferay/virtual-instances)
 
 ## Related Topics
 
