@@ -2,7 +2,7 @@
 
 ## Documentation
 
-* [Dispatch Framework](https://learn.liferay.com/dxp/latest/en/building-applications/core-frameworks/dispatch-framework.html)
+* [Job Scheduler Framework](https://learn.liferay.com/w/dxp/building-applications/core-frameworks/job-scheduler-framework)
 
 ## Related Topics
 
