@@ -1432,6 +1432,36 @@
 				"secondary": "-"
 			},
 			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_layout_admin_web_portlet_GroupPagesPortlet\/general.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "general"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_layout_admin_web_portlet_GroupPagesPortlet\/design.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "design"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_layout_admin_web_portlet_GroupPagesPortlet\/seo.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "seo"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_layout_admin_web_portlet_GroupPagesPortlet\/open-graph.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "open-graph"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_layout_admin_web_portlet_GroupPagesPortlet\/custom-meta-tags.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "custom-meta-tags"
+			},
+			{
 				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_layout_admin_web_portlet_GroupPagesPortlet\/page-templates.html",
 				"mediaType": null,
 				"mediaURL": null,
