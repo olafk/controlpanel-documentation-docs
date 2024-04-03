@@ -390,6 +390,48 @@
 				"secondary": "-"
 			},
 			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/com.liferay.friendly.url.configuration.FriendlyURLRedirectionConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.friendly.url.configuration.FriendlyURLRedirectionConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/com.liferay.layout.reports.web.internal.configuration.LayoutReportsGooglePageSpeedCompanyConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.layout.reports.web.internal.configuration.LayoutReportsGooglePageSpeedCompanyConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/com.liferay.redirect.internal.configuration.RedirectURLConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.redirect.internal.configuration.RedirectURLConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/com.liferay.layout.internal.configuration.LayoutCrawlerClientConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.layout.internal.configuration.LayoutCrawlerClientConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/com.liferay.layout.reports.web.internal.configuration.LayoutReportsGooglePageSpeedGroupConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.layout.reports.web.internal.configuration.LayoutReportsGooglePageSpeedGroupConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/com.liferay.layout.seo.internal.configuration.LayoutSEOGroupConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.layout.seo.internal.configuration.LayoutSEOGroupConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/fragments-service-company.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "fragments-service-company"
+			},
+			{
 				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/7.4\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/digital-signature.html",
 				"mediaType": null,
 				"mediaURL": null,
